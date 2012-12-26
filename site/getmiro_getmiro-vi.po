@@ -1,0 +1,4626 @@
+# Vietnamese translation for getdemocracy
+# Copyright (c) 2007 Rosetta Contributors and Canonical Ltd 2007
+# This file is distributed under the same license as the getdemocracy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: getdemocracy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-03 13:07+0000\n"
+"PO-Revision-Date: 2010-05-03 03:47+0000\n"
+"Last-Translator: huyngochoang <huyngochoang8990@gmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-12-26 03:20+0000\n"
+"X-Generator: Launchpad (build 16378)\n"
+
+#: ../index-old2.php:17 ../index-old.php:19
+msgid "Miro HD Video Player | Free internet tv and video podcast player."
+msgstr ""
+
+#: ../index-old2.php:67 ../index1.php:54 ../index4.php:54 ../index-old.php:71
+#: ../index3.php:59
+msgid "Miro 2.0"
+msgstr ""
+
+#: ../index-old2.php:67 ../index1.php:54 ../index4.php:54
+msgid "Open-source video player and podcast client."
+msgstr ""
+
+#: ../index-old2.php:67 ../index4.php:54 ../index-old.php:71 ../index3.php:59
+msgid ""
+"Torrents made easy, RSS made beautiful, with tons of gorgeous HD video."
+msgstr ""
+"Torrents trở nên dễ dàng, RSS trông đẹp hơn, với vô số HD video tuyệt vời"
+
+#: ../index-old2.php:121 ../s.php:166 ../index1.php:108 ../index4.php:108
+#: ../open-source/volunteer/index.php:251
+#: ../open-source/volunteer/index2.php:484 ../index-old.php:125
+#: ../index3.php:113
+msgid "Roll Over For Details"
+msgstr ""
+
+#: ../index-old2.php:122 ../welcome/sidebar.faq.php:61 ../s.php:170
+#: ../help/sidebar.faq.php:61 ../help/faq/index.php:186 ../index1.php:109
+#: ../using-miro/sidebar.faq.php:61 ../using-miro/faq/index.php:184
+#: ../index4.php:109 ../index-old.php:126 ../index3.php:114
+msgid "What is Miro?"
+msgstr "Miro là gì?"
+
+#: ../index-old2.php:124 ../s.php:172 ../index1.php:111 ../index4.php:111
+#: ../index-old.php:128 ../index3.php:116
+msgid "Miro is a free HD video player."
+msgstr "Miro là phần mềm chơi HD video miễn phí"
+
+#: ../index-old2.php:124 ../s.php:172 ../index1.php:111 ../index4.php:111
+#: ../index-old.php:128 ../index3.php:116
+msgid ""
+"It can play almost any video file and offers over 6,000 free internet TV "
+"shows and video podcasts."
+msgstr ""
+
+#: ../index-old2.php:126 ../s.php:174 ../index1.php:113 ../index4.php:113
+#: ../index-old.php:130 ../index3.php:118
+msgid ""
+"Miro has a simple, gorgeous interface designed for fullscreen HD video.  "
+"Since Miro downloads most videos, you can take your shows with you, even on "
+"an airplane.  Quite simply, Miro is"
+msgstr ""
+
+#: ../index-old2.php:126 ../s.php:174 ../index1.php:113 ../index4.php:113
+#: ../index-old.php:130 ../index3.php:118
+msgid "a better way to watch"
+msgstr "một cách tốt hơn để xem"
+
+#: ../index-old2.php:126 ../s.php:174 ../index1.php:113 ../index4.php:113
+#: ../index-old.php:130 ../index3.php:118
+msgid "all the video you care about."
+msgstr "tất cả những video bạn quan tâm"
+
+#: ../index-old2.php:128 ../s.php:176 ../index1.php:115 ../index4.php:115
+#: ../index-old.php:132 ../index3.php:120
+#, php-format
+msgid ""
+"Best of all, Miro is 100% free and open source, developed by a non-profit "
+"organization and volunteers around the world."
+msgstr ""
+
+#: ../index-old2.php:137 ../s.php:185 ../index1.php:124 ../index4.php:124
+#: ../index-old.php:141 ../index3.php:129
+msgid "The Most Free HD"
+msgstr "Hoàn toàn miễn phí HD video"
+
+#: ../index-old2.php:139 ../s.php:187 ../index1.php:126 ../index4.php:126
+#: ../index-old.php:143 ../index3.php:131
+msgid "Unlike your browser, Miro's built for HD."
+msgstr "Không giống trình duyệt web, Mire được thiết kế cho HD"
+
+#: ../index-old2.php:140 ../s.php:188 ../index1.php:127 ../index4.php:127
+#: ../index-old.php:144 ../index3.php:132
+msgid ""
+"The built-in Miro Guide connects you to thousands of free High Definition "
+"video shows.  Miro downloads video fast and stores it on your local computer "
+"for"
+msgstr ""
+"Phần Hướng dẫn Miro cài sẵn giúp kết nối bạn tới hàng ngàn chương trình "
+"truyền hình HD miễn phí. Miro tải video nhanh và lưu trữ nó trong máy tính "
+"của bạn tới"
+
+#: ../index-old2.php:140 ../s.php:188 ../index1.php:127 ../index4.php:127
+#: ../index-old.php:144 ../index3.php:132
+msgid ""
+"a level of quality that is often impossible on streaming video websites"
+msgstr "một số lượng mà thường không thể xem trực tiếp từ các website"
+
+#: ../index-old2.php:141 ../s.php:189 ../index1.php:128 ../index4.php:128
+#: ../index-old.php:145 ../index3.php:133
+msgid "(even the ones that call themselves 'HD')."
+msgstr "(thậm chí cả những trang web 'HD')."
+
+#: ../index-old2.php:143 ../s.php:191 ../index1.php:130 ../index4.php:130
+#: ../index-old.php:147 ../index3.php:135
+msgid "Fullscreen, HD video on Miro is like nothing"
+msgstr "Ở chế độ toàn màn hình, HD video trong Miro tuyệt vời hơn những gì"
+
+#: ../index-old2.php:143 ../s.php:191 ../index1.php:130 ../index4.php:130
+#: ../index-old.php:147 ../index3.php:135
+msgid "you've ever seen online."
+msgstr "bạn từng xem trực tuyến"
+
+#: ../index-old2.php:149 ../s.php:197 ../index1.php:136 ../index4.php:136
+#: ../index-old.php:153 ../index3.php:141
+msgid "Play Any Video File"
+msgstr "Chơi mọi định dạng Video"
+
+#: ../index-old2.php:152 ../s.php:200 ../index1.php:139 ../index4.php:139
+#: ../index-old.php:156 ../index3.php:144
+msgid "Can't open a video? Now you can, with Miro."
+msgstr "Không thể mở một video? Bây giờ bạn có thể, với Miro."
+
+#: ../index-old2.php:152 ../s.php:200 ../index1.php:139 ../index4.php:139
+#: ../index-old.php:156 ../index3.php:144
+msgid ""
+"Miro can play virtually any type of video file - Quicktime, WMV, MPEG, AVI, "
+"XVID, and more."
+msgstr ""
+"Miro có thể chạy bất kỳ định video nào - Quicktime, WMV, MPEG, AVI, XVID, và "
+"hơn nữa."
+
+#: ../index-old2.php:154 ../s.php:202 ../index1.php:141 ../index4.php:141
+#: ../index-old.php:158 ../index3.php:146
+msgid ""
+"When it comes to video podcasts, Miro goes far beyond iTunes by letting you "
+"subscribe to BitTorrent RSS feeds, with one of the fastest torrent "
+"downloaders in the"
+msgstr ""
+"Miro có thể tải video podcasts, nó vượt xa iTunes bằng việc cho phép bạn đặt "
+"liên kết tới BitTorrent RSS feeds, với trình tải torrent nhanh nhất trên"
+
+#: ../index-old2.php:154 ../s.php:202 ../index1.php:141 ../index4.php:141
+#: ../index-old.php:158 ../index3.php:146
+msgid "world (it's called 'libtorrent')."
+msgstr "thế giới (nó được gọi là \"libtorrent')."
+
+#: ../index-old2.php:159 ../s.php:207 ../index1.php:146 ../index4.php:146
+#: ../index-old.php:163 ../index3.php:151
+msgid "BitTorrent in 1 Step"
+msgstr "BitTorrent trong Một Bước"
+
+#: ../index-old2.php:161 ../s.php:209 ../index1.php:148 ../index4.php:148
+#: ../index-old.php:165 ../index3.php:153
+msgid "Instead of separate programs..."
+msgstr "Thay vì nhiều chương trình riêng biệt..."
+
+#: ../index-old2.php:161 ../s.php:209 ../index1.php:148 ../index4.php:148
+#: ../index-old.php:165 ../index3.php:153
+msgid ""
+"for downloading torrent files and then watching them, Miro is one integrated "
+"experience.  And Miro makes BitTorrent RSS dead simple-- when a new episode "
+"is available, it will download automatically and be ready to watch."
+msgstr ""
+"để tải tệp torrent và sau đó xem chúng, Miro là một phần mềm hợp nhất. Và "
+"Miro khiến BitTorrent RSS trở nên dễ dàng-- khi một phần mới được ra lò, nó "
+"sẽ tự động tải xuống và sẵn sàng để xem."
+
+#: ../index-old2.php:163 ../s.php:211 ../index1.php:150 ../index4.php:150
+#: ../index-old.php:167 ../index3.php:155
+msgid ""
+"If you are trying to teach someone how to use BitTorrent, Miro is the "
+"easiest place to start."
+msgstr ""
+"Nếu bạn muốn hướng dẫn ai đó cách sử dụng BitTorrent, Miro là nơi bắt đầu "
+"đơn giản nhât."
+
+#: ../index-old2.php:163 ../s.php:211 ../index1.php:150 ../index4.php:150
+#: ../index-old.php:167 ../index3.php:155
+msgid ""
+"And Miro's torrent performance is powered by the screamingly fast open-"
+"source libtorrent engine, which is why we're also a favorite of hard-core "
+"torrenters."
+msgstr ""
+"Và khả năng tải torrent của Miro được cung cấp bởi cỗ máy nguồn mở "
+"libtorrent nhanh khủng khiếp, đó là lý do chúng tôi cũng là những người yêu "
+"thích định dạng torrent."
+
+#: ../index-old2.php:169 ../s.php:217 ../index1.php:156 ../index4.php:156
+#: ../index-old.php:173 ../index3.php:161
+msgid "Download YouTube in HD"
+msgstr "Tải video HD từ YouTube"
+
+#: ../index-old2.php:170 ../s.php:218 ../index1.php:157 ../index4.php:157
+#: ../index-old.php:174 ../index3.php:162
+msgid "Search, download, and save videos..."
+msgstr ""
+
+#: ../index-old2.php:170 ../s.php:218 ../index1.php:157 ../index4.php:157
+#: ../index-old.php:174 ../index3.php:162
+msgid ""
+"from YouTube, Google Video, Blip, and more.  You can even save a search term "
+"and automatically get new videos as they are posted."
+msgstr ""
+
+#: ../index-old2.php:172 ../s.php:220 ../index1.php:159 ../index4.php:159
+#: ../index-old.php:176 ../index3.php:164
+msgid "With YouTube's new HD support, the video quality"
+msgstr "Với sự trợ giúp HD của YouTube, chất lượng video"
+
+#: ../index-old2.php:173 ../s.php:221 ../index1.php:160 ../index4.php:160
+#: ../index-old.php:177 ../index3.php:165
+msgid " can be incredible."
+msgstr " có thể tuyệt vời đến không thể tin vào mắt mình"
+
+#: ../index-old2.php:237 ../s.php:235 ../index1.php:220 ../index4.php:220
+#: ../index-old.php:237 ../index3.php:225
+msgid "Miro is different"
+msgstr ""
+
+#: ../index-old2.php:241 ../s.php:239 ../index1.php:224 ../index4.php:224
+#: ../index-old.php:241 ../index3.php:229
+msgid "A Gorgeous Interface"
+msgstr ""
+
+#: ../index-old2.php:242 ../s.php:240 ../index1.php:225 ../index4.php:225
+#: ../index-old.php:242 ../index3.php:230
+msgid ""
+"miro has a unique, elegant, and seamless user interface that makes watching "
+"internet tv easier than ever. take a look at some"
+msgstr ""
+"miro mang đến một giao diện người dùng duy nhất, sang trọng, và liền mạch "
+"giúp tạo Internet Tv dễ dàng hơn bao giờ hết, hãy xem qua một vài"
+
+#: ../index-old2.php:242 ../s.php:240 ../index1.php:225 ../index4.php:225
+#: ../index-old.php:242 ../index3.php:230
+msgid "screenshots"
+msgstr "hình chụp màn mình"
+
+#: ../index-old2.php:248 ../s.php:246 ../index1.php:231 ../index4.php:231
+#: ../index-old.php:248 ../index3.php:236
+msgid "The Most Shows"
+msgstr ""
+
+#: ../index-old2.php:249 ../s.php:247 ../index1.php:232 ../index4.php:232
+#: ../index-old.php:249 ../index3.php:237
+msgid ""
+"miro works with the open internet to bring you everything. the built-in"
+msgstr ""
+
+#: ../index-old2.php:249 ../s.php:247 ../index1.php:232 ../index4.php:232
+#: ../index-old.php:249 ../index3.php:237
+msgid "content guide"
+msgstr "nội dung hướng dẫn"
+
+#: ../index-old2.php:249 ../s.php:247 ../index1.php:232 ../index4.php:232
+#: ../index-old.php:249 ../index3.php:237
+msgid ""
+"has thousands of free video feeds (many in HD) and streaming video sites."
+msgstr ""
+"chứa đựng hàng ngàn nguồn video miễn phí (phần lớn ở dạng HD) và site xem "
+"trực tuyến."
+
+#: ../index-old2.php:253 ../s.php:251 ../index1.php:236 ../index4.php:236
+#: ../index-old.php:253 ../index3.php:241
+msgid "Open and Not-for-Profit"
+msgstr "Open and Not-for-Profit"
+
+#: ../index-old2.php:254 ../s.php:252 ../index1.php:237 ../index4.php:237
+#: ../index-old.php:254 ../index3.php:242
+#, php-format
+msgid ""
+"miro is open source software, built by a non-profit organization; we are "
+"100% committed to supporting users and creators"
+msgstr ""
+
+#: ../index-old2.php:254 ../s.php:252 ../index1.php:237 ../index4.php:237
+#: ../index-old.php:254 ../index3.php:242
+msgid "join in."
+msgstr "muốn tham gia."
+
+#: ../index-old2.php:258 ../s.php:256 ../index1.php:241 ../index4.php:241
+#: ../index-old.php:258 ../index3.php:246
+msgid "All of Your Favorite Shows"
+msgstr "All of Your Favorite Shows"
+
+#: ../index-old2.php:258 ../s.php:256 ../index1.php:241 ../index4.php:241
+#: ../index-old.php:258 ../index3.php:246
+msgid "(and lots of new ones too)"
+msgstr "(và nhiều những điều mới nữa)"
+
+#: ../index-old2.php:265 ../s.php:263 ../index1.php:248 ../index4.php:248
+#: ../index-old.php:265 ../index3.php:253
+msgid "The Simpsons"
+msgstr "The Simpsons"
+
+#: ../index-old2.php:266 ../s.php:264 ../index1.php:249 ../index4.php:249
+#: ../index-old.php:266 ../index3.php:254
+msgid "The Onion"
+msgstr "The Onion"
+
+#: ../index-old2.php:266 ../s.php:264 ../index1.php:249 ../index4.php:249
+#: ../index-old.php:266 ../index3.php:254
+msgid "The Daily Show"
+msgstr "The Daily Show"
+
+#: ../index-old2.php:268 ../s.php:266 ../index1.php:251 ../index4.php:251
+#: ../index-old.php:268 ../index3.php:256
+msgid "Democracy Now!"
+msgstr "Democracy Now!"
+
+#: ../index-old2.php:271 ../s.php:269 ../index1.php:254 ../index4.php:254
+#: ../index-old.php:271 ../index3.php:259
+msgid "Here's just a few of the more than 6,000 shows on Miro."
+msgstr ""
+"Ở đây chỉ là một số chương trình trong số hơn 6,000 chương trình trên Miro."
+
+#: ../index-old2.php:275 ../s.php:273 ../index1.php:258 ../index4.php:258
+#: ../index-old.php:275 ../index3.php:263
+msgid "Resources for Viewers"
+msgstr "Resources for Viewers"
+
+#: ../index-old2.php:276 ../s.php:274 ../index1.php:259 ../index4.php:259
+#: ../index-old.php:276 ../index3.php:264
+msgid "How to Use Miro"
+msgstr "Cách sử dùng Miro"
+
+#: ../index-old2.php:277 ../s.php:275 ../index1.php:260 ../index4.php:260
+#: ../index-old.php:277 ../index3.php:265
+msgid "Volunteer and Help Open Media"
+msgstr ""
+
+#: ../index-old2.php:278 ../s.php:276 ../index1.php:261 ../index4.php:261
+#: ../index-old.php:278 ../index3.php:266
+msgid "The Miro Video Guide"
+msgstr "Hướng dẫn Miro Video"
+
+#: ../index-old2.php:279 ../s.php:277 ../index1.php:262 ../index4.php:262
+#: ../open-source/volunteer/index.php:282
+#: ../open-source/volunteer/index.php:291 ../index-old.php:279
+#: ../index3.php:267
+msgid "Translate Miro"
+msgstr "Dịch Miro"
+
+#: ../index-old2.php:283 ../s.php:281 ../index1.php:266 ../index4.php:266
+#: ../index-old.php:283 ../index3.php:271
+msgid "Tools for Publishers"
+msgstr "Công cụ cho Nhà xuất bản"
+
+#: ../index-old2.php:284 ../s.php:282 ../index1.php:267 ../index4.php:267
+#: ../index-old.php:284 ../index3.php:272
+msgid "How to Make Internet TV"
+msgstr "Cách tạo Internet TV"
+
+#: ../index-old2.php:285 ../s.php:283 ../index1.php:268 ../index4.php:268
+#: ../index-old.php:285 ../index3.php:273
+msgid "Miro 1-Click Subscribe Buttons"
+msgstr ""
+
+#: ../index-old2.php:286 ../s.php:284 ../index1.php:269 ../index4.php:269
+#: ../index-old.php:286 ../index3.php:274
+msgid "Custom Branded Versions of Miro"
+msgstr ""
+
+#: ../index-old2.php:287 ../s.php:285 ../index1.php:270 ../index4.php:270
+#: ../index-old.php:287 ../index3.php:275
+msgid "Get Your Videos Onto Miro"
+msgstr "Đưa Videos của bạn vào Miro"
+
+#: ../device-makers/index.php:5 ../publish/index.php:5
+msgid "Miro Video Player | Publish"
+msgstr ""
+
+#: ../contact/index.php:5
+msgid "Miro Video Player | Contact"
+msgstr ""
+
+#: ../contact/index.php:46
+msgid "The Participatory Culture Foundation develops Miro. "
+msgstr ""
+
+#: ../contact/index.php:48
+msgid ""
+"Our heart is in Worcester, MA USA, but our staff lives around the world, "
+"including Croatia and France."
+msgstr ""
+
+#: ../contact/index.php:58
+msgid "Contact PCF"
+msgstr ""
+
+#: ../contact/index.php:60 ../help/index.php:143
+msgid "If you've found a bug in Miro, file a bug report"
+msgstr ""
+
+#: ../contact/index.php:60 ../help/index.php:143 ../download/all/index.php:221
+msgid "here"
+msgstr ""
+
+#: ../contact/index.php:64
+msgid "participatoryculture.org"
+msgstr ""
+
+#: ../contact/index.php:78
+msgid "Branded & Custom Miro Players"
+msgstr ""
+
+#: ../contact/index.php:80
+msgid ""
+"We now offer branded and customized versions of Miro. Custom Miro players "
+"enable content producers and distributors to extend their brand and content "
+"onto the desktop. For more information, please visit"
+msgstr ""
+
+#: ../contact/index.php:82
+msgid ""
+"To inquire about Miro Branded Players, please contact Nicholas Reville via "
+"email: npr |at| pculture.org"
+msgstr ""
+
+#: ../ipad/index.php:5
+msgid "Miro Video Player | Miro for iPad"
+msgstr ""
+
+#: ../ipad/index.php:18
+msgid "Miro for iPad - Coming Soon"
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:6 ../help/sidebar.faq.php:6
+#: ../using-miro/sidebar.faq.php:6
+msgid "Find More Help"
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:9 ../welcome/sidebar.help.php:5
+#: ../help/sidebar.faq.php:9 ../help/sidebar.help.php:5
+#: ../using-miro/sidebar.faq.php:9 ../using-miro/sidebar.help.php:5
+msgid "Intro Video"
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:9 ../welcome/sidebar.help.php:5
+#: ../help/sidebar.faq.php:9 ../help/sidebar.help.php:5
+#: ../using-miro/sidebar.faq.php:9 ../using-miro/sidebar.help.php:5
+msgid "This short video will show you the basics of using Miro."
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:10 ../welcome/sidebar.help.php:6
+#: ../help/sidebar.faq.php:10 ../using-miro/sidebar.faq.php:10
+#: ../using-miro/sidebar.help.php:6
+msgid "The Features"
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:10 ../welcome/sidebar.help.php:6
+#: ../help/sidebar.faq.php:10 ../help/sidebar.help.php:6
+#: ../using-miro/sidebar.faq.php:10 ../using-miro/sidebar.help.php:6
+msgid "A friendly guide to the many features of Miro."
+msgstr "Hướng dẫn thân thiện về nhiều tính năng của Miro."
+
+#: ../welcome/sidebar.faq.php:11 ../welcome/sidebar.help.php:9
+#: ../help/sidebar.faq.php:11 ../help/sidebar.help.php:9
+#: ../using-miro/sidebar.faq.php:11 ../using-miro/sidebar.help.php:9
+msgid "Find More Answers"
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:11 ../welcome/sidebar.help.php:9
+#: ../help/sidebar.faq.php:11 ../using-miro/sidebar.faq.php:11
+#: ../using-miro/sidebar.help.php:9
+msgid "Ask your Miro related questions on our GetSatisfaction site."
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:14 ../help/sidebar.faq.php:14
+#: ../using-miro/sidebar.faq.php:14
+msgid "FAQ Chapters"
+msgstr "Các chương Hỏi Đáp"
+
+#: ../welcome/sidebar.faq.php:18 ../help/sidebar.faq.php:18
+#: ../help/faq/index.php:41 ../inc/footer.php:27
+#: ../using-miro/sidebar.faq.php:18 ../using-miro/faq/index.php:40
+msgid "Using Miro"
+msgstr "Sử dụng Miro"
+
+#: ../welcome/sidebar.faq.php:20 ../help/sidebar.faq.php:20
+#: ../help/faq/index.php:43 ../using-miro/sidebar.faq.php:20
+#: ../using-miro/faq/index.php:42
+msgid "How do I use Miro?"
+msgstr "Làm sao để dùng Miro?"
+
+#: ../welcome/sidebar.faq.php:21 ../help/sidebar.faq.php:21
+#: ../using-miro/sidebar.faq.php:21
+msgid "How do I watch videos?"
+msgstr "Làm sao để xem video?"
+
+#: ../welcome/sidebar.faq.php:22 ../help/sidebar.faq.php:22
+#: ../help/faq/index.php:51 ../using-miro/sidebar.faq.php:22
+#: ../using-miro/faq/index.php:50
+msgid "How do I play videos in fullscreen mode?"
+msgstr "Làm sao để xem video toàn màn hình?"
+
+#: ../welcome/sidebar.faq.php:23 ../help/sidebar.faq.php:23
+#: ../help/faq/index.php:55 ../using-miro/sidebar.faq.php:23
+#: ../using-miro/faq/index.php:54
+msgid "How do I exit fullscreen mode while a video is playing?"
+msgstr "Làm sao để thoát khỏi chế độ toàn màn hình khi đang xem video?"
+
+#: ../welcome/sidebar.faq.php:24 ../help/sidebar.faq.php:24
+#: ../help/faq/index.php:59 ../using-miro/sidebar.faq.php:24
+#: ../using-miro/faq/index.php:58
+msgid "How do I subscribe to feeds?"
+msgstr "Làm sao để đăng ký đến nguồn tin?"
+
+#: ../welcome/sidebar.faq.php:25 ../help/sidebar.faq.php:25
+#: ../help/faq/index.php:63 ../using-miro/sidebar.faq.php:25
+#: ../using-miro/faq/index.php:61
+msgid "How do I add sites?"
+msgstr "Làm sao để thêm trang?"
+
+#: ../welcome/sidebar.faq.php:26 ../help/sidebar.faq.php:26
+#: ../help/faq/index.php:67 ../using-miro/sidebar.faq.php:26
+#: ../using-miro/faq/index.php:65
+msgid "How do I remove feeds or sites?"
+msgstr "Làm sao để gỡ bỏ nguồn tin hoặc trang?"
+
+#: ../welcome/sidebar.faq.php:27 ../help/sidebar.faq.php:27
+#: ../help/faq/index.php:71 ../using-miro/sidebar.faq.php:27
+#: ../using-miro/faq/index.php:69
+msgid ""
+"How do I automatically download (auto-download) everything from a feed?"
+msgstr "Làm sao để tự động tải xuống mọi thứ từ một nguồn tin?"
+
+#: ../welcome/sidebar.faq.php:28 ../help/sidebar.faq.php:28
+#: ../help/faq/index.php:75 ../using-miro/sidebar.faq.php:28
+#: ../using-miro/faq/index.php:73
+msgid ""
+"How do I know when new videos in a feed are available to download, or have "
+"already downloaded and are ready to watch?"
+msgstr ""
+"Làm sao để biết khi nào trong một nguồn tin có video mới để tải xuống hoặc "
+"khi nào đã tải xong và sẵn sàng để xem ?"
+
+#: ../welcome/sidebar.faq.php:29 ../help/sidebar.faq.php:29
+#: ../help/faq/index.php:79 ../using-miro/sidebar.faq.php:29
+#: ../using-miro/faq/index.php:77
+msgid "How do I share videos or shows that I like with friends?"
+msgstr ""
+"Làm sao để chia sẻ video hoặc chương trình truyền hình ưa thích với bạn bè?"
+
+#: ../welcome/sidebar.faq.php:30 ../help/sidebar.faq.php:30
+#: ../help/faq/index.php:83 ../using-miro/sidebar.faq.php:30
+msgid "How do I set preferences to manage the videos I've downloaded?"
+msgstr "Làm sao tùy chỉnh để quản lý các video tôi đã tải xuống?"
+
+#: ../welcome/sidebar.faq.php:31 ../help/sidebar.faq.php:31
+#: ../help/faq/index.php:91 ../using-miro/sidebar.faq.php:31
+#: ../using-miro/faq/index.php:89
+msgid "How do I import video podcast subscriptions from iTunes into Miro?"
+msgstr ""
+
+#: ../welcome/sidebar.faq.php:32 ../help/sidebar.faq.php:32
+#: ../help/faq/index.php:95 ../using-miro/sidebar.faq.php:32
+#: ../using-miro/faq/index.php:93
+msgid "What are the keyboard shortcuts for Miro?"
+msgstr "Có các phím tắt bàn phím nào cho Miro?"
+
+#: ../welcome/sidebar.faq.php:33 ../help/sidebar.faq.php:33
+#: ../help/faq/index.php:99 ../using-miro/sidebar.faq.php:33
+#: ../using-miro/faq/index.php:97
+msgid "How do I configure a proxy for Miro to work?"
+msgstr "Làm sao cấu hình máy chủ ủy nhiệm để Miro hoạt động?"
+
+#: ../welcome/sidebar.faq.php:34 ../help/sidebar.faq.php:34
+#: ../help/faq/index.php:103 ../using-miro/sidebar.faq.php:34
+#: ../using-miro/faq/index.php:101
+msgid "How do I back up my Miro database?"
+msgstr "Làm sao để sao lưu cơ sở dữ liệu Miro của tôi?"
+
+#: ../welcome/sidebar.faq.php:37 ../help/sidebar.faq.php:37
+#: ../help/faq/index.php:107 ../using-miro/sidebar.faq.php:37
+#: ../using-miro/faq/index.php:105
+msgid "Common Questions and Issues"
+msgstr "Câu hỏi và Thắc mắc Phổ biến"
+
+#: ../welcome/sidebar.faq.php:39 ../help/sidebar.faq.php:39
+#: ../help/faq/index.php:109 ../using-miro/sidebar.faq.php:39
+#: ../using-miro/faq/index.php:107
+msgid "How do I install Miro?"
+msgstr "Làm sao để cài đặt Miro?"
+
+#: ../welcome/sidebar.faq.php:40 ../help/sidebar.faq.php:40
+#: ../help/faq/index.php:113 ../using-miro/sidebar.faq.php:40
+#: ../using-miro/faq/index.php:111
+msgid "How do I uninstall Miro?"
+msgstr "Làm sao để gỡ bỏ Miro?"
+
+#: ../welcome/sidebar.faq.php:41 ../help/sidebar.faq.php:41
+#: ../help/faq/index.php:121 ../using-miro/sidebar.faq.php:41
+msgid "What's the Difference Between a Site and a Feed?"
+msgstr "Đâu là sự khác biệt giữa một Trang và một Nguồn tin?"
+
+#: ../welcome/sidebar.faq.php:42 ../help/sidebar.faq.php:42
+#: ../help/faq/index.php:123 ../using-miro/sidebar.faq.php:42
+msgid "Can I add feeds or sites that aren't listed in the Miro Guide?"
+msgstr ""
+"Tôi có thể thêm những nguồn hoặc trang không nằm trong danh sách của Miro "
+"Guide không ?"
+
+#: ../welcome/sidebar.faq.php:43 ../help/sidebar.faq.php:43
+#: ../using-miro/sidebar.faq.php:43
+msgid ">Does Miro play Flash video, .flvs, or .swf's?"
+msgstr ">Miro có chơi được phim Flash dạng .flvs hoặc .swf không?"
+
+#: ../welcome/sidebar.faq.php:44 ../help/sidebar.faq.php:44
+#: ../help/faq/index.php:131 ../using-miro/sidebar.faq.php:44
+#: ../using-miro/faq/index.php:129
+msgid ""
+"Why do all my media files have Miro logos now? I want to use a different "
+"program to play these files!"
+msgstr ""
+"Tại sao mọi tập tin đa phương tiện của tôi giờ đây đều mang biểu tượng Miro "
+"? Tôi muốn dùng chương trình khác để chơi các tập tin này!"
+
+#: ../welcome/sidebar.faq.php:45 ../help/sidebar.faq.php:45
+#: ../help/faq/index.php:135 ../using-miro/sidebar.faq.php:45
+#: ../using-miro/faq/index.php:133
+msgid "Can I sync my videos to an iPod or other video device?"
+msgstr ""
+"Tôi có thể đồng bộ các video của tôi với một máy Ipod hoặc thiết bị chơi "
+"video khác không?"
+
+#: ../welcome/sidebar.faq.php:46 ../help/sidebar.faq.php:46
+#: ../using-miro/sidebar.faq.php:46
+msgid ">Do you support the Mac remote? Other remotes?"
+msgstr ">Miro có hỗ trợ điều khiển từ xa Mac hay loại nào khác không ?"
+
+#: ../welcome/sidebar.faq.php:47 ../help/sidebar.faq.php:47
+#: ../help/faq/index.php:143 ../using-miro/sidebar.faq.php:47
+msgid "I'm trying to download a video, but the video isn't downloading."
+msgstr "Tôi đang cố tải xuống một video nhưng nó không chịu tải xuống."
+
+#: ../welcome/sidebar.faq.php:48 ../help/sidebar.faq.php:48
+#: ../help/faq/index.php:147 ../using-miro/sidebar.faq.php:48
+msgid "I downloaded a video, but it won't play."
+msgstr "Tôi tải xuống một video nhưng nó không chơi được."
+
+#: ../welcome/sidebar.faq.php:49 ../help/sidebar.faq.php:49
+#: ../help/faq/index.php:151 ../using-miro/sidebar.faq.php:49
+msgid "I downloaded a video but it's gone from my collection."
+msgstr ""
+"Tôi tải xuống một video nhưng nó đã biến mất khỏi bộ sưu tập của tôi."
+
+#: ../welcome/sidebar.faq.php:50 ../help/sidebar.faq.php:50
+#: ../using-miro/sidebar.faq.php:50
+msgid ""
+"I subscribed to a feed but it's empty. The feed does not show any videos "
+"available to download."
+msgstr ""
+"Tôi đăng ký với một nguồn tin nhưng nó trống không, không xuất hiện bất kỳ "
+"video nào có thể tải xuống."
+
+#: ../welcome/sidebar.faq.php:51 ../help/sidebar.faq.php:51
+#: ../help/faq/index.php:161 ../using-miro/sidebar.faq.php:51
+msgid "I installed Miro, but it's not in my language."
+msgstr "Tôi đã cài Miro nhưng nó không hiện thứ tiếng của tôi."
+
+#: ../welcome/sidebar.faq.php:52 ../help/sidebar.faq.php:52
+#: ../help/faq/index.php:165 ../using-miro/sidebar.faq.php:52
+msgid "I'm having problems with Miro on Ubuntu Feisty."
+msgstr "Tôi gặp trục trặc với Miro trên hệ thống Ubuntu Feisty"
+
+#: ../welcome/sidebar.faq.php:53 ../help/sidebar.faq.php:53
+#: ../help/faq/index.php:169 ../using-miro/sidebar.faq.php:53
+msgid ""
+"I'm getting very few search results for YouTube and other video services."
+msgstr ""
+"Tôi nhận được rất ít kết quả tìm kiếm từ YouTube và những dịch vụ video khác."
+
+#: ../welcome/sidebar.faq.php:54 ../help/sidebar.faq.php:54
+#: ../help/faq/index.php:173 ../using-miro/sidebar.faq.php:54
+msgid "My Bittorrent downloads don't work/go slow."
+msgstr "Tác vụ tải xuống BitTorrent của tôi không hoạt động/chạy chậm."
+
+#: ../welcome/sidebar.faq.php:57 ../about/index.php:89
+#: ../help/sidebar.faq.php:57 ../help/faq/index.php:180
+#: ../using-miro/sidebar.faq.php:57 ../using-miro/faq/index.php:178
+msgid "About Miro"
+msgstr "Giới thiệu về Miro"
+
+#: ../welcome/sidebar.faq.php:60 ../help/sidebar.faq.php:60
+#: ../help/faq/index.php:182 ../using-miro/sidebar.faq.php:60
+#: ../using-miro/faq/index.php:180
+msgid "Who Makes Miro?"
+msgstr "Ai làm ra Miro?"
+
+#: ../welcome/sidebar.faq.php:62 ../help/sidebar.faq.php:62
+#: ../help/faq/index.php:190 ../using-miro/sidebar.faq.php:62
+#: ../using-miro/faq/index.php:188
+msgid "How Can I Contact the Participatory Culture Foundation?"
+msgstr "Làm sao để có thể liên lạc với Quỹ Tham gia Văn hóa"
+
+#: ../welcome/sidebar.faq.php:63 ../help/sidebar.faq.php:63
+#: ../using-miro/sidebar.faq.php:63
+msgid "I'd like to Report a Bug, Problem, or Desired Feature for Miro."
+msgstr ""
+"Tôi muốn báo cáo một lỗi, trục trặc hoặc đề xuất tính năng mong muốn với "
+"Miro."
+
+#: ../welcome/sidebar.faq.php:64 ../help/sidebar.faq.php:64
+#: ../help/faq/index.php:207 ../using-miro/sidebar.faq.php:64
+#: ../using-miro/faq/index.php:205
+msgid "What are the system requirements to run Miro?"
+msgstr "Để chạy Miro cần cấu hình hệ thống thế nào ?"
+
+#: ../welcome/sidebar.faq.php:65 ../help/sidebar.faq.php:65
+#: ../help/faq/index.php:215 ../using-miro/sidebar.faq.php:65
+#: ../using-miro/faq/index.php:213
+msgid "What video formats can Miro play?"
+msgstr "MIro có thể chơi được những định dạng video nào?"
+
+#: ../welcome/sidebar.faq.php:66 ../help/sidebar.faq.php:66
+#: ../help/faq/index.php:229 ../using-miro/sidebar.faq.php:66
+#: ../using-miro/faq/index.php:227
+msgid "Where can I see the source code for Miro?"
+msgstr "Tôi có thể xem mã nguồn của Miro ở đâu?"
+
+#: ../welcome/sidebar.faq.php:67 ../help/sidebar.faq.php:67
+#: ../help/faq/index.php:235 ../using-miro/sidebar.faq.php:67
+#: ../using-miro/faq/index.php:233
+msgid "Can I put my show/videos in the Miro Content Guide?"
+msgstr ""
+"Tôi có thể đặt chương trình/video của mình trong mục Giới thiệu Nội dung của "
+"Miro không?"
+
+#: ../welcome/sidebar.help.php:2 ../help/sidebar.help.php:2
+#: ../using-miro/sidebar.help.php:2
+msgid "Where to Get Help"
+msgstr "Tôi có thể xem trợ giúp ở đâu"
+
+#: ../welcome/sidebar.help.php:7 ../welcome/subnav.php:4
+#: ../help/sidebar.help.php:7 ../help/index.php:142 ../help/subnav.php:6
+#: ../help/faq/index.php:45 ../using-miro/sidebar.help.php:7
+#: ../using-miro/subnav.php:6 ../using-miro/faq/index.php:44
+msgid "Miro User Manual"
+msgstr ""
+
+#: ../welcome/sidebar.help.php:7 ../help/sidebar.help.php:7
+#: ../using-miro/sidebar.help.php:7
+msgid "Documentation for how to use Miro"
+msgstr ""
+
+#: ../welcome/sidebar.help.php:8 ../help/sidebar.help.php:8
+#: ../using-miro/sidebar.help.php:8
+msgid "The FAQ"
+msgstr "Mục Hỏi Đáp"
+
+#: ../welcome/sidebar.help.php:8 ../help/sidebar.help.php:8
+#: ../using-miro/sidebar.help.php:8
+msgid "Answers to all your most frequently asked questions."
+msgstr "Trả lời mọi câu hỏi thường gặp"
+
+#: ../welcome/index.php:6 ../using-miro/index.php:5
+msgid "Miro Video Player | Using Miro"
+msgstr ""
+
+#: ../welcome/index.php:35
+msgid ""
+"Thank you for installing Miro and choosing the optional Miro search tools!"
+msgstr ""
+
+#: ../welcome/index.php:36
+msgid ""
+"Like other non-profit open-source projects, our partnerships with search "
+"engines makes it possible for us to keep building free and open-source "
+"software."
+msgstr ""
+
+#: ../welcome/index.php:37
+msgid ""
+"You can uninstall the search tools at any time, just <a "
+"href=\"http://mirostart.com/support/\">follow these instructions</a>. For "
+"help getting started with Miro, see the <a "
+"href=\"http://manual.getmiro.com/\">Miro User Guide</a>."
+msgstr ""
+
+#: ../welcome/index.php:38
+msgid ""
+"Questions? Comments? We'd love to hear from you: <a "
+"href=\"mailto:hello@pculture.org\">hello@pculture.org</a>"
+msgstr ""
+
+#: ../welcome/subnav.php:2 ../inc/footer.php:28 ../using-miro/subnav.php:4
+msgid "Getting Started"
+msgstr "Khởi đầu"
+
+#: ../welcome/subnav.php:3 ../inc/footer.php:29 ../inc/header.php:44
+#: ../using-miro/subnav.php:5
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: ../welcome/subnav.php:5 ../help/index.php:141 ../help/subnav.php:5
+#: ../inc/footer.php:30 ../using-miro/subnav.php:7
+msgid "FAQ"
+msgstr "Hỏi đáp"
+
+#: ../s.php:8
+msgid ""
+"Miro | Video Player | Free video and audio podcast player and torrent client."
+msgstr ""
+
+#: ../s.php:63
+msgid " An amazing open-source, non-profit video player."
+msgstr ""
+
+#: ../s.php:63
+msgid "Download torrents and podcasts, play any video, and do it with style."
+msgstr ""
+
+#: ../press/miro2pressrelease.php:5 ../press/index.php:5
+msgid "Miro Video Player | Press"
+msgstr ""
+
+#: ../press/index.php:40
+msgid "Press Coverage"
+msgstr ""
+
+#: ../press/index.php:41
+msgid ""
+"The Participatory Culture Foundation is a non-profit organization based in "
+"Worcester, Massachusetts. Our mission is to create tools for broader, deeper "
+"engagement with culture and politics. We're working to ensure that the new "
+"mass medium of internet TV is open and independent, just like blogging and "
+"podcasting."
+msgstr ""
+
+#: ../press/index.php:46
+msgid "Press Contact"
+msgstr ""
+
+#: ../press/index.php:48
+msgid " Co-Founder, Executive Director"
+msgstr ""
+
+#: ../press/index.php:59
+msgid "Get Press Updates"
+msgstr ""
+
+#: ../press/index.php:74
+msgid "Selected Coverage"
+msgstr ""
+
+#: ../press/index.php:131
+msgid ""
+"Want to see the future of Net video? Download the open source Democracy "
+"Player from the Participatory Culture Foundation, a renegade nonprofit code "
+"shop. The app lets you subscribe to RSS channels, download in the background "
+"via BitTorrent, and view most video formats in full-screen resolution. (The "
+"companion site, Video Bomb, offers RSS feeds for tons of clips.) With "
+"Democracy Player, a well-stocked BitTorrent tracker, and a little RSS fu, "
+"who needs a TiVo?"
+msgstr ""
+
+#: ../press/index.php:141
+msgid "\"Linux Version of Democracy Released\""
+msgstr ""
+
+#: ../press/index.php:148
+msgid ""
+"\"This looks like an interesting example of network-centric voice and "
+"distribution via TV.\""
+msgstr ""
+
+#: ../press/index.php:157
+msgid "Democracy Player Brings Power to the People"
+msgstr ""
+
+#: ../press/index.php:157
+msgid ""
+" ... The system is undeniably slick. One cool feature is the integration "
+"with Video Bomb, which means that whenever you click the star icon beside a "
+"video, that clip is added to your personal Video Bomb feed. Friends and "
+"family can subscribe to the feed, and by simply launching the Miro can see "
+"all the video content that you think is worth watching.\""
+msgstr ""
+
+#: ../index.php:8
+msgid "Miro - Free, open-source music and video player."
+msgstr ""
+
+#: ../index.php:432 ../download/index.php:230
+msgid "Other Versions"
+msgstr ""
+
+#: ../index.php:440
+msgid "Use your keyboard's arrow keys to navigate"
+msgstr ""
+
+#: ../index.php:456
+msgid "Miro manages your music effortlessly"
+msgstr ""
+
+#: ../index.php:466
+msgid "It's easy to try Miro with your video and music"
+msgstr ""
+
+#: ../index.php:475
+msgid "Miro syncs to Android devices"
+msgstr ""
+
+#: ../index.php:486
+msgid "A beautiful HD video experience"
+msgstr ""
+
+#: ../index.php:495
+msgid "Download, play, convert, and sync effortlessly"
+msgstr ""
+
+#: ../index.php:510
+msgid ""
+"The beautiful, open-source music and video player that lets you break free!"
+msgstr ""
+
+#: ../index.php:511
+msgid "Why you should switch to"
+msgstr ""
+
+#: ../index.php:511 ../inc/header.php:36
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid "Miro"
+msgstr ""
+
+#: ../index.php:595
+msgid "Watch an introduction to Miro"
+msgstr ""
+
+#: ../index.php:631 ../index.php:711 ../index.php:761 ../index.php:808
+#: ../index.php:863 ../index.php:911 ../index.php:954 ../index.php:1002
+#: ../index.php:1043 ../index.php:1083
+msgid "Download this Video"
+msgstr ""
+
+#: ../index.php:632 ../index.php:712 ../index.php:762 ../index.php:809
+#: ../index.php:864 ../index.php:912 ../index.php:955 ../index.php:1003
+#: ../index.php:1044 ../index.php:1084
+msgid "HD"
+msgstr ""
+
+#: ../index.php:633 ../index.php:713 ../index.php:763 ../index.php:810
+#: ../index.php:865 ../index.php:913 ../index.php:956 ../index.php:1004
+#: ../index.php:1045 ../index.php:1085
+msgid "SD"
+msgstr ""
+
+#: ../index.php:671
+msgid "What Makes Miro So Amazing?"
+msgstr ""
+
+#: ../index.php:673
+msgid "Device Makers, Music Stores, Cloud Services"
+msgstr ""
+
+#: ../index.php:673
+msgid " why you need Miro and how to partner with us"
+msgstr ""
+
+#: ../index.php:683
+msgid "Works with your current music library"
+msgstr ""
+
+#: ../index.php:685
+msgid ""
+"It's very easy to switch from iTunes to Miro -- without any copying.  Just "
+"point Miro to your music and video folders and those files will appear.  If "
+"you don't like Miro (impossible!), nothing's changed."
+msgstr ""
+
+#: ../index.php:687 ../index.php:688 ../index.php:732 ../index.php:733
+#: ../index.php:780 ../index.php:781 ../index.php:837 ../index.php:838
+#: ../index.php:884 ../index.php:885 ../index.php:931 ../index.php:932
+#: ../index.php:978 ../index.php:979 ../index.php:1019 ../index.php:1020
+#: ../index.php:1058 ../index.php:1059
+msgid "30 Second Video"
+msgstr ""
+
+#: ../index.php:728
+msgid "Converts and syncs to Android & Kindle Fire"
+msgstr ""
+
+#: ../index.php:730
+msgid ""
+"You'd have to be crazy to use a music player that doesn't sync to your "
+"phone.  Miro is simply the best music and video player for Android phones "
+"and tablets. "
+msgstr ""
+
+#: ../index.php:776
+msgid "Buy Music and Apps inside Miro"
+msgstr ""
+
+#: ../index.php:778
+msgid ""
+"The Amazon MP3 store is built-in to Miro.  Buy, download, and listen, "
+"seamlessly.  Buy Android apps from the Amazon or Google app stores and they "
+"will sync to your device."
+msgstr ""
+
+#: ../index.php:833
+msgid "Download and play almost any video"
+msgstr ""
+
+#: ../index.php:835
+msgid ""
+"Do you still use separate programs to download, play music, play videos, and "
+"sync to your phone?  Miro plays almost any video or music format and "
+"downloads from YouTube, podcasts, Amazon, and bittorrent. "
+msgstr ""
+
+#: ../index.php:880
+msgid "Convert any video"
+msgstr ""
+
+#: ../index.php:882
+msgid ""
+"You can convert almost any video with Miro into mp4/h264, with presets for "
+"almost any device you can think of (including iPhones, iPods, iPads, Android "
+"phones, and more)."
+msgstr ""
+
+#: ../index.php:927
+msgid "Share Your Media on your Network"
+msgstr ""
+
+#: ../index.php:929
+msgid ""
+"When two Miro's are on the same wifi network, they can stream and transfer "
+"music and videos to each other.  It's the easiest way to watch a video or "
+"play music upstairs if the file is downstairs."
+msgstr ""
+
+#: ../index.php:974
+msgid "Open-source - don't lock yourself in!"
+msgstr ""
+
+#: ../index.php:976
+#, php-format
+msgid ""
+"Unlike some other media players (cough, cough), Miro is not trying to run "
+"your life!  Not only is Miro 100% free and open-source, it's made by a non-"
+"profit organization. You don't need to be locked down by one corporation to "
+"have a great media experience.  "
+msgstr ""
+
+#: ../index.php:1015
+msgid "Ultra-fast torrent downloading"
+msgstr ""
+
+#: ../index.php:1017
+msgid ""
+"Miro has some of the fastest bittorrent downloading in the world, built in.  "
+"Try us head-to-head with any bittorrent application!"
+msgstr ""
+
+#: ../index.php:1054
+msgid "But it's not about the features!"
+msgstr ""
+
+#: ../index.php:1056
+msgid ""
+" Miro has a lot of features, but that's not what matters-- it's the "
+"experience.  Miro is a simple, beautiful, unified way to download, organize, "
+"and watch videos and listen to music.  And it's totally free. "
+msgstr ""
+
+#: ../index.php:1107 ../inc/header.php:8
+msgid "Miro Community"
+msgstr ""
+
+#: ../index.php:1108
+msgid ""
+"The easiest way to make a beautiful video website for any topic, "
+"organization, school, or community."
+msgstr ""
+
+#: ../index.php:1118 ../inc/header.php:7
+msgid "Miro Video Converter"
+msgstr ""
+
+#: ../index.php:1119
+msgid ""
+"A super simple way to convert any video format to MP4 or for your phone or "
+"Apple device."
+msgstr ""
+
+#: ../index.php:1129 ../inc/header.php:9
+msgid "Amara"
+msgstr ""
+
+#: ../index.php:1130
+msgid ""
+"Increase your viewership by subtitling, captioning, or translating any "
+"video, with the help of your viewers."
+msgstr ""
+
+#: ../index.php:1138 ../inc/header.php:6
+msgid "Miro for iPad"
+msgstr ""
+
+#: ../index.php:1139
+msgid ""
+"Stream, transfer, and play videos and music from Miro to your iPad with our "
+"beautiful and free iPad app."
+msgstr ""
+
+#: ../index.php:1151
+msgid "Remember to Like Miro"
+msgstr ""
+
+#: ../index.php:1162
+msgid "Be first to hear about updates"
+msgstr ""
+
+#: ../index.php:1173 ../inc/footer.php:56
+msgid "Donate"
+msgstr ""
+
+#: ../about/sidebar.about.php:2 ../inc/footer.php:50
+msgid "About"
+msgstr ""
+
+#: ../about/sidebar.about.php:5 ../about/index.php:80 ../inc/footer.php:52
+msgid "Our Organization"
+msgstr ""
+
+#: ../about/sidebar.about.php:6 ../inc/footer.php:53
+msgid "Press"
+msgstr ""
+
+#: ../about/sidebar.about.php:7 ../inc/footer.php:54
+msgid "Contact"
+msgstr ""
+
+#: ../about/sidebar.about.php:8 ../inc/footer.php:55
+msgid "Jobs"
+msgstr ""
+
+#: ../about/index.php:5
+msgid "Miro Video Player | Our Organization"
+msgstr ""
+
+#: ../about/index.php:81
+msgid ""
+"The <strong><em>Participatory Culture Foundation</em></strong>, a "
+"Massachusetts based 501(c)(3) non-profit, makes bottom-up economies and "
+"cultures possible by ensuring that our political, social and cultural "
+"systems are open and democratic everywhere.  We work to eliminate "
+"gatekeepers and empower communities around the world."
+msgstr ""
+
+#: ../about/index.php:82
+msgid ""
+"People often ask why we're setup as a non-profit rather than a for-profit. "
+"Quite simply: all of us at PCF are drawn to the project because of the "
+"mission. Being a non-profit is the only way we can ensure that the mission "
+"is built into the structure of the company. So many times we've seen for-"
+"profit companies lose their values as financial pressures mount, founders "
+"leave, or they get acquired. We want to make sure that can't happen."
+msgstr ""
+
+#: ../about/index.php:90
+msgid ""
+"We see an opportunity to build a new, open mass medium of online television. "
+"We're developing the Miro internet TV platform so that watching internet "
+"video shows will be as easy as watching TV and broadcasting a shows will be "
+"open to everyone. Unlike traditional TV, everyone will have a voice."
+msgstr ""
+
+#: ../about/index.php:93
+msgid "Board of Directors"
+msgstr ""
+
+#: ../about/index.php:97
+msgid "Tiffiniy is a co-Founder of PCF."
+msgstr ""
+
+#: ../about/index.php:102
+msgid ""
+"Joel is a television producer, director, and editor, best known for "
+"producing The 90's, a critically acclaimed reality magazine series on PBS."
+msgstr ""
+
+#: ../about/index.php:106
+msgid ""
+"Cory writes for BoingBoing.net,and is a science fiction writer, professor, "
+"and has worked for the Electronic Frontier Foundation for many years."
+msgstr ""
+
+#: ../about/index.php:111
+msgid "Dave is a geek, musician, and father living in"
+msgstr ""
+
+#: ../about/index.php:116
+msgid ""
+"Rick Hess is a San Francisco-based high technology executive, advisor, and "
+"political activist. A former Oracle/PeopleSoft/Arbor/Hyperion VP and CEO of "
+"Ellianz, Rick is in awe of the next generation of techies who really want to "
+"help improve the human condition using technology."
+msgstr ""
+
+#: ../about/index.php:121
+msgid "[biography forthcoming]"
+msgstr ""
+
+#: ../about/index.php:126
+msgid ""
+"John is the Chief Executive Officer at Mozilla Corporation, creators of the "
+"Firefox web browser."
+msgstr ""
+
+#: ../about/index.php:131
+msgid ""
+"Stefan Magdalinski has been an online civic activist for over 10 years. "
+"Previous projects he founded include FaxYourMP.com, UpMyStreet.com, and "
+"TheyWorkForYou.com. He is currently the CTO for MOO.com."
+msgstr ""
+
+#: ../about/index.php:136
+msgid "Nicholas is a co-founder of PCF and is the Executive Director."
+msgstr ""
+
+#: ../about/index.php:141
+msgid ""
+"Holmes is a co-Founder of PCF. He has led several successful online advocacy "
+"projects and is also on the board of the Participatory Politics Foundation."
+msgstr ""
+
+#: ../about/index.php:145
+msgid "Major Funders"
+msgstr ""
+
+#: ../about/index.php:182
+msgid "...and many individual users"
+msgstr ""
+
+#: ../about/index.php:186
+msgid "Staff"
+msgstr ""
+
+#: ../about/index.php:192
+msgid "Co-Founder, Executive Director"
+msgstr ""
+
+#: ../about/index.php:193
+msgid ""
+"Nicholas Reville is from Worcester, MA and has a B.A. in Public Policy from "
+"Brown University. He worked in a variety of political activism positions for "
+"several years before co-founding PCF."
+msgstr ""
+
+#: ../about/index.php:200
+msgid "Business Development Director"
+msgstr ""
+
+#: ../about/index.php:208
+msgid "Outreach Director"
+msgstr ""
+
+#: ../about/index.php:209
+msgid "Dean is based in New York. He co-organized the inaugural"
+msgstr ""
+
+#: ../about/index.php:209
+msgid "More recently, he's been kick-starting &amp; collaborating on PCF's"
+msgstr ""
+
+#: ../about/index.php:216
+msgid "Quality Assurance"
+msgstr ""
+
+#: ../about/index.php:217
+msgid ""
+"Janet directs quality and testing for PCF.  She lives on an island in the "
+"Adriatic."
+msgstr ""
+
+#: ../about/index.php:224 ../about/index.php:232
+msgid "Co-Founder"
+msgstr ""
+
+#: ../about/index.php:225
+msgid ""
+"Holmes Wilson is from Worcester, MA. He founded the Worcester Computer Co-"
+"op, an organization that uses free software and recycled computers to start "
+"computer labs in his city. He has a B.A. in Italian literature and speaks "
+"Italian."
+msgstr ""
+
+#: ../about/index.php:233
+msgid ""
+"Tiffiniy Cheng is from Worcester, MA and has a BS in engineering and urban "
+"planning from the Cooper Union. She has worked in non-profit, urban "
+"planning, and public policy-oriented organizations."
+msgstr ""
+
+#: ../about/index.php:240 ../about/index.php:248 ../about/index.php:256
+#: ../about/index.php:264
+msgid "Software Developer"
+msgstr ""
+
+#: ../about/index.php:241
+msgid "Ben lives in Rochester, NY."
+msgstr ""
+
+#: ../about/index.php:249
+msgid ""
+"Luc Heinrich, a Miro programmer, lives in Paris with his wife and two "
+"tadpoles (kids)."
+msgstr ""
+
+#: ../about/index.php:257
+msgid ""
+"Paul is from Kensington, MD, but graduated with a B.A. from Hampshire "
+"College and now lives in Northampton, MA."
+msgstr ""
+
+#: ../about/index.php:265
+msgid ""
+"Will lives in Somerville, MA, has a Masters in\n"
+"\t\t\tCS from NEU, writes children's books, hacks on PyBlosxom, programs,\n"
+"\t\t\tand has always thought that computers are both pretty neat and pretty\n"
+"\t\t\tannoying."
+msgstr ""
+
+#: ../about/index.php:275
+msgid "Designer"
+msgstr ""
+
+#: ../about/index.php:276
+msgid ""
+"Morgan grew up in Los Angeles, CA, and curently resides in Ventura. He "
+"paints a fine coat of badass onto everything PCF does, from Miro's UI to the "
+"multitude of websites. He also helps carry the flag of government "
+"transparency at"
+msgstr ""
+
+#: ../about/index.php:283
+msgid "System Administrator"
+msgstr ""
+
+#: ../about/index.php:284
+msgid ""
+"Matt lives in Brooklyn, CT.  A History major in college, he now pulls of "
+"feats of baling twine and bubble gum engineering that would make Montgomery "
+"Scott and Galen Tyrol proud."
+msgstr ""
+
+#: ../about/index.php:290
+msgid "Community Outreach Coordinator"
+msgstr ""
+
+#: ../about/index.php:291
+msgid ""
+"Anne is originally from Chicago, IL and has a BA in English Lit from Brown "
+"University. She worked at several nonprofits before joining PCF through "
+"Americorps. She currently lives in Brooklyn, NY, and works on Miro Community "
+"and other capacity-building projects."
+msgstr ""
+
+#: ../help/sidebar.help.php:6 ../inc/header.php:40
+msgid "Get Started"
+msgstr ""
+
+#: ../help/sidebar.help.php:9
+msgid "Ask your Miro related questions on our support site."
+msgstr ""
+
+#: ../help/index.php:2
+msgid "Miro Video Player | Help"
+msgstr ""
+
+#: ../help/index.php:140
+msgid "Stuck? Find Help!"
+msgstr ""
+
+#: ../help/index.php:141
+msgid "First things first, check out the"
+msgstr ""
+
+#: ../help/index.php:141
+msgid "&mdash; it'll help with all the most common questions and problems."
+msgstr ""
+
+#: ../help/index.php:142
+msgid "Next, check out the"
+msgstr ""
+
+#: ../help/index.php:142
+msgid "&mdash; it holds the documentation for how to use Miro."
+msgstr ""
+
+#: ../help/index.php:143
+msgid "If things still aren't working properly, visit the support page"
+msgstr ""
+
+#: ../help/faq/index.php:5 ../using-miro/faq/index.php:5
+msgid "Miro Video Player | FAQ"
+msgstr ""
+
+#: ../help/faq/index.php:33 ../using-miro/faq/index.php:33
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../help/faq/index.php:35 ../using-miro/faq/index.php:34
+msgid "Use the chapter links on the right to quickly find your topic."
+msgstr ""
+
+#: ../help/faq/index.php:45 ../using-miro/faq/index.php:44
+msgid "We've made a"
+msgstr ""
+
+#: ../help/faq/index.php:45 ../using-miro/faq/index.php:44
+msgid "video demonstration of Miro"
+msgstr ""
+
+#: ../help/faq/index.php:45
+msgid "which is on the front page of this web-site.  Additionally, there's a"
+msgstr ""
+
+#: ../help/faq/index.php:45 ../using-miro/faq/index.php:44
+msgid "which walks through how to do many things with Miro."
+msgstr ""
+
+#: ../help/faq/index.php:47 ../using-miro/faq/index.php:46
+msgid "How do I watch videos in feeds?"
+msgstr ""
+
+#: ../help/faq/index.php:49 ../using-miro/faq/index.php:48
+msgid ""
+"First you need to add some video feeds or sites Click anywhere on a video "
+"thumbnail to download the video. Turn auto-download to New and Miro will "
+"automatically download new videos, whenever they are posted on that channel. "
+"Click on any video thumbnail (with a play button near it), whenever you'd "
+"like to watch the videos."
+msgstr ""
+
+#: ../help/faq/index.php:53 ../using-miro/faq/index.php:52
+msgid ""
+"There are three ways: once a video is playing, double click the video image; "
+"use the menu at the top of your screen to select Playback > Fullscreen; or, "
+"when a video is playing, click on the \"play fullscreen\" button - this is "
+"the square surrounded by four arrows, located directly to the right of the "
+"normal \"play\" button."
+msgstr ""
+
+#: ../help/faq/index.php:57 ../using-miro/faq/index.php:56
+msgid ""
+"Press the escape key, or repeat one of the fullscreen commands from above."
+msgstr ""
+
+#: ../help/faq/index.php:61 ../using-miro/faq/index.php:59
+msgid ""
+"Use the Miro Guide (located at the top of the sidebar) to find whatever "
+"interests you. You can browse the Guide by category, popularity, High "
+"Definition (HD), or by searching for keywords. Click on any green \"Add "
+"Feed\" button in the Guide and it will be added to your list of feed "
+"subscriptions in the left-hand sidebar of Miro."
+msgstr ""
+
+#: ../help/faq/index.php:65 ../using-miro/faq/index.php:63
+msgid ""
+"Use the Miro Guide (located at the top of the sidebar) to find whatever "
+"interests you. Add any site by clicking the green \"Add Site\" buttons. "
+"Sites are simply bookmarked video shows/websites that you can easily access "
+"from your sidebar."
+msgstr ""
+
+#: ../help/faq/index.php:69 ../using-miro/faq/index.php:67
+msgid ""
+"Right-click (Mac users: control-click) on the name of the show in the left-"
+"hand sidebar of Miro and select Remove - the show will disappear right away. "
+"You may re-add any show again by finding it in the Guide and clicking "
+"\"Add,\" nothing special required. To remove multiple shows, hold ctrl (Mac "
+"users: apple) and click the channels you want to remove - when you've got "
+"them selected, click the delete button that appears in the middle of Miro. "
+"We encourage you to browse and subscribe to shows with a sense of curiosity "
+"and impunity!"
+msgstr ""
+
+#: ../help/faq/index.php:73
+msgid ""
+"At the top left of Miro, when you're viewing a feed, there is a drop-down "
+"selector for auto-download. You can adjust this setting for each feed "
+"individually."
+msgstr ""
+
+#: ../help/faq/index.php:77
+msgid ""
+"Next to each feed's name, two indicators may appear: a blue circle indicates "
+"that the channel has published new videos that you haven't seen and a green "
+"circle indicates that you have videos in that channel that are downloaded "
+"but haven't been watched. When you have new videos downloaded, the green "
+"circle next to the feed's name turns into a play button when you hover over "
+"it - click it! Miro's default is for videos to remain on your hard drive for "
+"6 days, but you can change that in the Settings panel of Miro (upper-right "
+"hand corner of the feed). "
+msgstr ""
+
+#: ../help/faq/index.php:81
+msgid ""
+"When a channel is selected, there is a Send to a Friend button to the lower "
+"left of the channel title. Pushing this button will open a browser window to "
+"the show's Miro Guide sharing page. You will have a bunch of options about "
+"sharing the video to your social networks and friends via: email, facebook, "
+"del.icio.us, etc."
+msgstr ""
+
+#: ../help/faq/index.php:85
+msgid ""
+"Miro has a full set of preferences for how many videos you download and how "
+"long they remain on your hard drive before expiring. You may access it using "
+"the top menu - if you're using Windows, go to Edit -> Preferences; if you're "
+"using a Mac, go to Miro -> Preferences."
+msgstr ""
+
+#: ../help/faq/index.php:87 ../using-miro/faq/index.php:85
+msgid ""
+"On these settings menus, users have several options: you may choose to run "
+"Miro at startup; you can set how often you check channels for new content; "
+"you can set the default folder that Miro downloads to; you can set your "
+"upstream limit; you can choose how many videos will be downloaded "
+"simultaneously; you can you can specify custom ports for bittorrent; you can "
+"choose folders, on your hard drive, to watch for new videos; you can manage "
+"how much disk space Miro should leave available, including the default rate "
+"by which videos expire; you can choose to auto-resume playback on videos "
+"that have been interrupted; and you can also decide if you want to play back "
+"videos sequentially or stop after each video."
+msgstr ""
+
+#: ../help/faq/index.php:89
+msgid ""
+"Feel free to delete any videos you like from within Miro, you can always "
+"download the videos again at a later date. The default rate by which videos "
+"expire off your hard drive is set to 6 days - you may adjust this however "
+"you choose by going to Preferences -> Disk Space. It's a really simple "
+"process, just use the drop-down box to select the number of days you wish to "
+"keep videos, and set the amount of disk space you wish to remain available, "
+"nothing technical required."
+msgstr ""
+
+#: ../help/faq/index.php:93 ../using-miro/faq/index.php:91
+msgid ""
+"You must be subscribed to a video or audio podcast in iTunes, before you can "
+"export it to Miro (use the iTunes music store to find free podcasts). Once "
+"subscribed, open iTunes, click File -> Export. Choose OPML as the format and "
+"then save the file. Open Miro and click Channels > Import Channels (OPML). "
+"All of your iTunes podcast subscriptions will be imported to the Miro "
+"sidebar."
+msgstr ""
+
+#: ../help/faq/index.php:97 ../using-miro/faq/index.php:95
+msgid "You can find keyboard shortcuts, for all versions of Miro at"
+msgstr ""
+
+#: ../help/faq/index.php:97
+msgid "Keyboard Shorcuts"
+msgstr ""
+
+#: ../help/faq/index.php:97 ../using-miro/faq/index.php:95
+msgid "(program your remote control!)."
+msgstr ""
+
+#: ../help/faq/index.php:101
+msgid ""
+"Miro is running well but cannot retrieve any channel information, and your "
+"Internet connection uses a proxy? Miro doesn't support automatic proxy "
+"configuration files (*.pac) so you have to configure your proxy manually "
+"(server + port). In windows, go to the configuration panel / Internet "
+"properties, Connections tab then Network properties."
+msgstr ""
+
+#: ../help/faq/index.php:105 ../using-miro/faq/index.php:103
+msgid ""
+"If you want to save your database, you can follow the instructions in this "
+"<link>post from our blog."
+msgstr ""
+
+#: ../help/faq/index.php:111 ../using-miro/faq/index.php:109
+msgid "Follow the installation instructions, below the download link, for "
+msgstr ""
+
+#: ../help/faq/index.php:111
+msgid "your operating system"
+msgstr ""
+
+#: ../help/faq/index.php:115 ../help/faq/index.php:117
+msgid "Follow the instructions"
+msgstr ""
+
+#: ../help/faq/index.php:119
+msgid ""
+"Use your package manager to remove Miro. To remove the user data (feed "
+"subscriptions and your Miro database),"
+msgstr ""
+
+#: ../help/faq/index.php:119
+msgid "Downloaded videos, by default, are stored at: ~/Movies/Miro/. "
+msgstr ""
+
+#: ../help/faq/index.php:123
+msgid ""
+"Miro can track your favorite video websites and RSS feeds (aka podcasts). A "
+"feed is a subscription-type service that will download new audio or video "
+"files as soon as the creator publishes new material. A website is simply a "
+"bookmarked show website, which stays in the Miro sidebar for easy access."
+msgstr ""
+
+#: ../help/faq/index.php:125 ../using-miro/faq/index.php:123
+msgid ""
+"Yes! To add a feed, click Channels -> Add Channel, from the menu, paste in "
+"the RSS feed URL, and let Miro find the available content. To add a site, "
+"click Channels -> Add Site, from the menu, paste in the URL, and Miro adds "
+"the site to your sidebar."
+msgstr ""
+
+#: ../help/faq/index.php:127
+msgid "Does Miro play Flash video, .flvs, or .swf's?"
+msgstr ""
+
+#: ../help/faq/index.php:129
+msgid ""
+"Miro can play Flash videos (.flv's or .mp4's), but won't play shockwave "
+"flash items (.swf's). "
+msgstr ""
+
+#: ../help/faq/index.php:133 ../using-miro/faq/index.php:131
+msgid ""
+"During install, Miro asks how you want to manage particular types of files "
+"(file associations). To change the associations, check out these guides:"
+msgstr ""
+
+#: ../help/faq/index.php:137
+msgid ""
+"Currently, Miro doesn't directly sync with any portable devices. However, we "
+"will be working on this in future versions. In the meantime, you may be able "
+"to sync the video files themselves with a separate program."
+msgstr ""
+
+#: ../help/faq/index.php:139 ../using-miro/faq/index.php:137
+msgid "Do you support the Mac remote? Other remotes?"
+msgstr ""
+
+#: ../help/faq/index.php:141 ../using-miro/faq/index.php:139
+msgid ""
+"We currently do not support the Mac remote, but plan to do so in the future. "
+"As for other options, check out this post on the Miro blog about <link>DIY "
+"Media Centers."
+msgstr ""
+
+#: ../help/faq/index.php:145
+msgid ""
+"First, give Miro some time to make the connection - if after a few minutes "
+"the download hasn't started, there are a number of possible causes. Because "
+"Miro doesn't host any videos centrally, downloading problems often lie with "
+"the video publisher. They may be experiencing server difficulties, or have "
+"taken a particular video offline. If you have a channel set to Auto Download "
+"and you see the message Pending Download next to each video in the channel, "
+"don't worry, videos will download once other videos in the queue have "
+"finished downloading (there is a maximum number of downloads at a time, "
+"which is adjustable in the Settings dialog)."
+msgstr ""
+
+#: ../help/faq/index.php:149
+msgid ""
+"First, check the file format to make sure it's compatible with Miro - if "
+"you're on Windows, that it would play in VLC, and if you're on a Mac, that "
+"it would play on QuickTime v. 7. Second, check the file format of what you "
+"downloaded to make sure it's a video - the publisher might have put out some "
+"audio files (for example, .mp3 files), which of course do not include video. "
+"Third, check the size of the file you downloaded to ensure that it's not "
+"zero. If none of those work, the publisher is likely experiencing "
+"difficulties and may have published an invalid file."
+msgstr ""
+
+#: ../help/faq/index.php:153 ../using-miro/faq/index.php:151
+msgid ""
+"The video most likely expired - Miro has a default setting that videos 6 "
+"days old, that have not been specifically \"saved,\" expire in order to "
+"preserve disk space on your hard drive. Feel free to adjust your preferences "
+"on the Settings section of each feed (look in the upper-right), or globally "
+"in the preferences dialog."
+msgstr ""
+
+#: ../help/faq/index.php:157
+msgid ""
+"First, give Miro a moment to find all the available videos. It sometimes "
+"takes a minute or so after you first subscribe to a channel for all the "
+"images and videos to appear, though usually it happens right away (By the "
+"way, this is because there's a myriad of publishing and RSS formatting "
+"options.) Second, if the channel still doesn't show any videos, right-click "
+"(Mac: ctrl-click) on the channel name in the left-hand sidebar of Miro and "
+"select \"Update Channel Now.\" This will refresh the channel and may cause "
+"new images or videos to appear. If no videos appear even after refresh, the "
+"channel is likely exeperiencing server difficulties."
+msgstr ""
+
+#: ../help/faq/index.php:159
+msgid ""
+"Also, don't forget that feeds have two sections that collapse and expand: "
+"Full Channel and Downloaded  - don't forget to check those for videos that "
+"might have slipped your vision."
+msgstr ""
+
+#: ../help/faq/index.php:163 ../using-miro/faq/index.php:161
+msgid ""
+"Close Miro, open your System Preferences (in the apple at the top left of "
+"the screen), click International (the flag), click Edit List, uncheck any "
+"languages other than the one you want, and then restart Miro."
+msgstr ""
+
+#: ../help/faq/index.php:167 ../using-miro/faq/index.php:165
+msgid "Try following the Feisty specific instructions on <link>this page."
+msgstr ""
+
+#: ../help/faq/index.php:171
+msgid ""
+"The results are limited because every time you search, Miro is directly "
+"connecting to YouTube.com (or other service) for an RSS feed of results. The "
+"hosts limit the length of the RSS results (for a variety of reasons), so it "
+"isn't something we have direct control over."
+msgstr ""
+
+#: ../help/faq/index.php:175 ../using-miro/faq/index.php:173
+msgid ""
+"There are a few things you can do to potentially speed up Bittorrent. The "
+"first is to check and see if there are any seeds on the torrent, using the "
+"details drop-down for the video (near the top right of the video that is "
+"downloading) in Miro. If the word Seeders has a 0 next to it, there is no "
+"one there you can download from."
+msgstr ""
+
+#: ../help/faq/index.php:177
+msgid "The next step is to make sure you don't have firewall software"
+msgstr ""
+
+#: ../help/faq/index.php:177
+msgid ""
+"info on windows firewall) blocking Miro. The third thing is to enable UPnP "
+"on your router (google your router model + upnp)."
+msgstr ""
+
+#: ../help/faq/index.php:184 ../using-miro/faq/index.php:182
+msgid ""
+"The <link>Participatory Culture Foundation, a non-profit organization "
+"founded in February 2005. There are ten full-time staff (geographically "
+"dispersed), and many volunteers. Our funding currently comes from private "
+"philanthropists and non-profit foundations, as well as <link>our users. Our "
+"mission is to build software and websites that foster an independent, "
+"creative, engaging, and meritocratic internet TV system for millions of "
+"people around the world."
+msgstr ""
+
+#: ../help/faq/index.php:192
+msgid ""
+"For technical questions, please check out the rest of this FAQ. If your "
+"question isn't answered here, then make sure you try the <link>help pages "
+"and post your question to GetSatisfaction (we see everything that gets "
+"posted there)."
+msgstr ""
+
+#: ../help/faq/index.php:194 ../using-miro/faq/index.php:192
+msgid "Press, please see our <link>Press Page."
+msgstr ""
+
+#: ../help/faq/index.php:196
+msgid ""
+"We love hearing general feedback - for example, features that you'd like to "
+"see in Miro, or suggestions for the user interface. Write us an e-mail "
+"anytime at feedback(at)pculture.org."
+msgstr ""
+
+#: ../help/faq/index.php:198
+msgid "I'd like to Report a Bug or Problem with Miro."
+msgstr ""
+
+#: ../help/faq/index.php:200
+msgid ""
+"We're always working to fix bugs in Miro and we're releasing\n"
+"new versions regularly. If you think you've found a bug and want to help\n"
+"make Miro better, please"
+msgstr ""
+
+#: ../help/faq/index.php:203
+msgid ""
+"file\n"
+"a ticket"
+msgstr ""
+
+#: ../help/faq/index.php:209 ../using-miro/faq/index.php:207
+msgid "Windows XP, 128MB of RAM."
+msgstr ""
+
+#: ../help/faq/index.php:211 ../using-miro/faq/index.php:209
+msgid ""
+"Mac OS X 10.4 or higher and QuickTime version 7 (which you should be able to "
+"get through Software Update)."
+msgstr ""
+
+#: ../help/faq/index.php:213 ../using-miro/faq/index.php:211
+msgid "500Mhz CPU with a good video card, 1GHz without, 128MB RAM."
+msgstr ""
+
+#: ../help/faq/index.php:217
+msgid "Video playback works differently for each platform:"
+msgstr ""
+
+#: ../help/faq/index.php:219 ../using-miro/faq/index.php:217
+msgid ""
+"The Windows version of Miro embeds <link>VLC to play videos. This will play "
+"Windows Media, Quicktime, MPEG 1, 2, 4, H264, AVI, DivX, XviD, Flash, OGM, "
+"and lots more. You can see a full chart of what VLC can play right here."
+msgstr ""
+
+#: ../help/faq/index.php:221 ../using-miro/faq/index.php:219
+msgid ""
+"The Mac version of Miro uses Quicktime 7, which is built into the operating "
+"system, to play video. In addition, we use plugins for Quicktime that allow "
+"us to play even more video types. The Mac version can play MPEG, MP4, MOV, "
+"H264, Flash, Xvid, AVI, OGG, and more. Also, there is a <link>free extension "
+"for OS X that will play Windows Media files seamlessly."
+msgstr ""
+
+#: ../help/faq/index.php:223 ../using-miro/faq/index.php:221
+msgid ""
+"The Linux version of Miro uses GStreamer or Xine to play videos. Xine "
+"supports: MPEG 1/2/4, DivX 3/4/5, Windows Media 7/8, QuickTime, Theora, and "
+"more. You can see the full list of what Xine can play right here. GStreamer "
+"has varying levels of support: Theora and AVI are well-supported; MPEG 1 is "
+"supported but has licensing issues; AAC and H.264 are not well-supported. "
+"See <link>GStreamer for more information."
+msgstr ""
+
+#: ../help/faq/index.php:225
+msgid ""
+"We strongly believe that format wars among commercial entities have been a "
+"huge stumbling block to advancing internet video. The best way out of the "
+"\"format wars\" is to support as many formats as possible and users "
+"shouldn't have to think about formats at all. We will be adding support on a "
+"continuing basis for mp4, quicktime, AVI, Flash, and Windows Media."
+msgstr ""
+
+#: ../help/faq/index.php:227 ../using-miro/faq/index.php:225
+msgid ""
+"In terms of open-source, patent-unencumbered codecs like <link>Theora, our "
+"goal is to support them as best as possible, and once open-source media "
+"players and publishing tools get a bit more solid and commonplace to nudge "
+"publishers to use them."
+msgstr ""
+
+#: ../help/faq/index.php:231 ../using-miro/faq/index.php:229
+msgid ""
+"Our source code is licensed under the GPL and is available at our "
+"<link>development center."
+msgstr ""
+
+#: ../help/faq/index.php:233 ../using-miro/faq/index.php:231
+msgid ""
+"Open standards like RSS and Bittorrent mean that our technology is open for "
+"everyone to read and implement and is compatible with other standards based "
+"efforts."
+msgstr ""
+
+#: ../help/faq/index.php:237
+msgid "publishing section"
+msgstr ""
+
+#: ../help/faq/index.php:237
+msgid "of this site."
+msgstr ""
+
+#: ../help/faq/index.php:188
+msgid ""
+"Miro is a free application that turns your computer into an internet TV "
+"video player. You can <link>download it here for Windows, Mac, or Linux. "
+"This release is still a beta version, which means that there are some bugs, "
+"but we're moving quickly to fix them and will be releasing bug fixes on a "
+"regular basis.)"
+msgstr ""
+
+#: ../help/faq/index.php:155
+msgid ""
+"I subscribed to a feed but it's empty. The feed does not show any videos "
+"available to download.)"
+msgstr ""
+
+#: ../index1.php:3 ../index4.php:3 ../open-source/volunteer/index2.php:3
+#: ../boingboing/index.php:3 ../index3.php:3
+msgid "Miro Video Player | Free internet tv and video podcast player."
+msgstr ""
+
+#: ../index1.php:54
+msgid "Download video from websites, torrents, and feeds, all in one place."
+msgstr ""
+
+#: ../inc/osx.php:3 ../inc/windows.php:3 ../download/for-osx/index.php:164
+#: ../download/downloading/index.php:229
+msgid "Miro is simply the best video player and podcast client for Mac."
+msgstr ""
+
+#: ../inc/osx.php:5 ../inc/windows.php:5 ../download/for-osx/index.php:163
+#: ../download/windows-search/index.php:203
+#: ../download/for-windows/index.php:178 ../download/downloading/index.php:231
+msgid "How to Install Miro and Get Started"
+msgstr ""
+
+#: ../inc/osx.php:12 ../inc/windows.php:12
+#: ../download/windows-search/index.php:208
+#: ../download/for-windows/index.php:183 ../download/downloading/index.php:238
+msgid "Close Miro"
+msgstr ""
+
+#: ../inc/osx.php:13 ../inc/windows.php:13
+#: ../download/windows-search/index.php:209
+#: ../download/for-windows/index.php:184 ../download/downloading/index.php:239
+msgid "Close any previous versions of Miro that may already be running."
+msgstr ""
+
+#: ../inc/osx.php:15 ../download/for-osx/index.php:174
+#: ../download/downloading/index.php:241
+msgid "Launch the Miro Disk Image"
+msgstr ""
+
+#: ../inc/osx.php:16 ../download/for-osx/index.php:175
+#: ../download/downloading/index.php:242
+msgid "Once downloaded, double-click the Miro Disk Image to mount it."
+msgstr ""
+
+#: ../inc/osx.php:18 ../download/for-osx/index.php:177
+#: ../download/downloading/index.php:244
+msgid "Drag the Miro icon to your Applications folder"
+msgstr ""
+
+#: ../inc/osx.php:21 ../download/for-osx/index.php:180
+#: ../download/downloading/index.php:247
+msgid "Open Miro from your Applications folder"
+msgstr ""
+
+#: ../inc/osx.php:24 ../download/for-osx/index.php:183
+#: ../download/downloading/index.php:250
+msgid "Drag Miro to the Dock"
+msgstr ""
+
+#: ../inc/osx.php:25 ../download/for-osx/index.php:184
+#: ../download/downloading/index.php:251
+msgid "Find Miro in the Applications folder and drag it to the Dock."
+msgstr ""
+
+#: ../inc/windows.php:15
+msgid "Launch the Miro Setup Wizard"
+msgstr ""
+
+#: ../inc/windows.php:16
+msgid ""
+"Once downloaded, double-click the Miro Setup Wizard and follow the easy "
+"directions."
+msgstr ""
+
+#: ../inc/windows.php:18
+msgid "Start Miro"
+msgstr ""
+
+#: ../inc/windows.php:19
+msgid "Doucble-click the Miro icon on your desktop and begin watching"
+msgstr ""
+
+#: ../inc/footer.php:11
+msgid "Looking for something?"
+msgstr ""
+
+#: ../inc/footer.php:19 ../inc/footer.php:21 ../download/subnav.php:3
+msgid "Download Miro"
+msgstr "Tải xuống Miro"
+
+#: ../inc/footer.php:20
+msgid "Home"
+msgstr ""
+
+#: ../inc/footer.php:22 ../download/subnav.php:4
+msgid "Features"
+msgstr ""
+
+#: ../inc/footer.php:23 ../download/subnav.php:5
+msgid "Screenshots"
+msgstr ""
+
+#: ../inc/footer.php:34 ../inc/header.php:41 ../publish/subnav.php:4
+msgid "Publish"
+msgstr ""
+
+#: ../inc/footer.php:35
+msgid "Publishing on Miro"
+msgstr ""
+
+#: ../inc/footer.php:36 ../publish/subnav.php:5
+#: ../publish/troubleshooting/index.php:31
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../inc/footer.php:37
+msgid "Video Making 101"
+msgstr ""
+
+#: ../inc/footer.php:38
+msgid "Content Guide"
+msgstr ""
+
+#: ../inc/footer.php:42 ../download/features/index.php:503
+msgid "Open Source"
+msgstr ""
+
+#: ../inc/footer.php:43
+msgid "Volunteers &amp; Internships"
+msgstr ""
+
+#: ../inc/footer.php:44 ../open-source/subnav.php:5
+msgid "Share Miro"
+msgstr ""
+
+#: ../inc/footer.php:45
+msgid "Software Development"
+msgstr ""
+
+#: ../inc/footer.php:46
+msgid "Chat"
+msgstr ""
+
+#: ../inc/footer.php:51
+msgid "Miro Blog"
+msgstr ""
+
+#: ../inc/footer.php:74
+msgid ""
+"Miro is a project of the Participatory Culture Foundation, a non-profit "
+"organization."
+msgstr ""
+
+#: ../inc/footer.php:76
+msgid ""
+"The Miro name, logo, and icon are trademarks of the Participatory Culture "
+"Foundation (PCF)."
+msgstr ""
+
+#: ../inc/footer.php:78
+msgid ""
+"All text and image content on getmiro.com, unless otherwise specified, is "
+"released by PCF into the public domain. This does not include the Miro name, "
+"logo, and icon. This does not include the software code, which is licensed "
+"under the GPL. Please share, re-publish, re-use, and re-imagine this site."
+msgstr ""
+
+#: ../inc/header.php:4
+msgid "PCF"
+msgstr ""
+
+#: ../inc/header.php:39 ../download/all/index.php:179
+#: ../download/all/index.php:191
+msgid "Download"
+msgstr ""
+
+#: ../inc/header.php:42
+msgid "Volunteer"
+msgstr ""
+
+#: ../inc/header.php:43
+msgid "Blog"
+msgstr ""
+
+#: ../inc/intro_video.php:59
+msgid "Download Video"
+msgstr ""
+
+#: ../inc/intro_video.php:59
+msgid "or"
+msgstr ""
+
+#: ../inc/intro_video.php:59
+msgid "Embed"
+msgstr ""
+
+#: ../download/for-osx/index.php:9
+msgid "Miro Video Player | Downloading Miro for OSX"
+msgstr ""
+
+#: ../download/for-osx/index.php:135 ../download/for-windows/index.php:92
+msgid "Miro is now downloading. Installation instructions below."
+msgstr ""
+
+#: ../download/for-osx/index.php:135 ../download/for-windows/index.php:92
+msgid "If your download hasn't started yet,"
+msgstr ""
+
+#: ../download/for-osx/index.php:135 ../download/for-windows/index.php:92
+#: ../download/for-windows/index.php:98 ../download/downloading/index.php:150
+msgid "click here."
+msgstr ""
+
+#: ../download/for-osx/index.php:154 ../download/windows-search/index.php:196
+#: ../download/for-windows/index.php:197
+msgid "Minimum Requirements"
+msgstr ""
+
+#: ../download/for-osx/index.php:159
+msgid "is still available for MAC OS X 10.4.11."
+msgstr ""
+
+#: ../download/for-osx/index.php:171
+msgid "Quit Miro"
+msgstr ""
+
+#: ../download/for-osx/index.php:172
+msgid "Quit any previous versions of Miro that may already be running."
+msgstr ""
+
+#: ../download/for-osx/index.php:178 ../download/downloading/index.php:245
+msgid ""
+"If you have an older version of Miro installed, you'll be asked whether "
+"you'd like to replace it with the new one. Click Replace."
+msgstr ""
+
+#: ../download/for-osx/index.php:181 ../download/downloading/index.php:248
+msgid "After you've ejected the Miro disk image, you can run Miro."
+msgstr ""
+
+#: ../download/ipad/index.php:7
+msgid "Miro Video Player | Redirecting to iPad page"
+msgstr ""
+
+#: ../download/ipad/index.php:89
+msgid "Redirecting you..."
+msgstr ""
+
+#: ../download/windows-search/index.php:8 ../download/for-windows/index.php:8
+msgid "Miro Video Player | Downloading Miro for Windows"
+msgstr ""
+
+#: ../download/windows-search/index.php:116
+#: ../download/for-windows/index.php:97
+msgid "Downloading Miro for Windows..."
+msgstr ""
+
+#: ../download/windows-search/index.php:128
+#: ../download/for-windows/index.php:101 ../download/all/index.php:110
+#: ../download/downloading/index.php:159 ../download/source/index.php:120
+#: ../download/for-ubuntu/index.php:102
+msgid "Be the First to know about updates"
+msgstr ""
+
+#: ../download/windows-search/index.php:204
+#: ../download/for-windows/index.php:179
+msgid "Miro is simply the best video player and podcast client for Windows."
+msgstr ""
+
+#: ../download/windows-search/index.php:211
+#: ../download/for-windows/index.php:187
+msgid "Run the Miro Setup Wizard"
+msgstr ""
+
+#: ../download/windows-search/index.php:212
+#: ../download/for-windows/index.php:188
+msgid ""
+"Once downloaded, double-click the Miro Setup Wizard and follow the simple "
+"steps."
+msgstr ""
+
+#: ../download/windows-search/index.php:215
+#: ../download/for-windows/index.php:191
+msgid "Open Miro and Begin Watching"
+msgstr ""
+
+#: ../download/windows-search/index.php:216
+#: ../download/for-windows/index.php:192
+msgid ""
+"When the setup wizard finishes, double click the Miro icon on your desktop "
+"to launch Miro."
+msgstr ""
+
+#: ../download/features/index.php:3
+msgid "Miro Video Player | Features"
+msgstr ""
+
+#: ../download/features/index.php:97
+msgid "Features in Miro for"
+msgstr ""
+
+#: ../download/features/index.php:149 ../download/features/index.php:203
+#: ../download/features/index.php:274 ../download/features/index.php:370
+#: ../download/features/index.php:455 ../download/features/index.php:527
+#: ../download/features/index.php:602 ../download/features/index.php:670
+msgid "Watching"
+msgstr ""
+
+#: ../download/features/index.php:152 ../download/features/index.php:200
+#: ../download/features/index.php:275 ../download/features/index.php:371
+#: ../download/features/index.php:456 ../download/features/index.php:528
+#: ../download/features/index.php:603 ../download/features/index.php:671
+msgid "Organizing"
+msgstr ""
+
+#: ../download/features/index.php:153 ../download/features/index.php:204
+#: ../download/features/index.php:272 ../download/features/index.php:372
+#: ../download/features/index.php:457 ../download/features/index.php:529
+#: ../download/features/index.php:604 ../download/features/index.php:672
+msgid "Downloading"
+msgstr ""
+
+#: ../download/features/index.php:154 ../download/features/index.php:205
+#: ../download/features/index.php:276 ../download/features/index.php:368
+#: ../download/features/index.php:458 ../download/features/index.php:530
+#: ../download/features/index.php:605 ../download/features/index.php:673
+msgid "Subscribing to Feeds"
+msgstr ""
+
+#: ../download/features/index.php:155 ../download/features/index.php:206
+#: ../download/features/index.php:277 ../download/features/index.php:373
+#: ../download/features/index.php:453 ../download/features/index.php:531
+#: ../download/features/index.php:606 ../download/features/index.php:674
+msgid "Openness"
+msgstr ""
+
+#: ../download/features/index.php:156 ../download/features/index.php:207
+#: ../download/features/index.php:278 ../download/features/index.php:374
+#: ../download/features/index.php:459 ../download/features/index.php:525
+#: ../download/features/index.php:607 ../download/features/index.php:675
+msgid "Searching"
+msgstr ""
+
+#: ../download/features/index.php:157 ../download/features/index.php:208
+#: ../download/features/index.php:279 ../download/features/index.php:374
+#: ../download/features/index.php:459 ../download/features/index.php:531
+#: ../download/features/index.php:600 ../download/features/index.php:675
+#: ../publish/custom/index.php:90
+msgid "The Miro Guide"
+msgstr ""
+
+#: ../download/features/index.php:158 ../download/features/index.php:209
+#: ../download/features/index.php:280 ../download/features/index.php:375
+#: ../download/features/index.php:460 ../download/features/index.php:532
+#: ../download/features/index.php:608 ../download/features/index.php:668
+msgid "Sharing"
+msgstr ""
+
+#: ../download/features/index.php:162
+msgid "Miro in Full Screen Mode"
+msgstr ""
+
+#: ../download/features/index.php:165
+msgid "Watch Fullscreen"
+msgstr ""
+
+#: ../download/features/index.php:165
+msgid ""
+"Since Miro works so well for HD content, you'll find lots of video that "
+"looks beautiful in fullscreen on even the largest displays."
+msgstr ""
+
+#: ../download/features/index.php:172
+msgid "Resume from Where You Stopped"
+msgstr ""
+
+#: ../download/features/index.php:174
+msgid ""
+"Miro will remember where you stopped watching a video and will start at that "
+"point when you play it again."
+msgstr ""
+
+#: ../download/features/index.php:176
+msgid "Play Almost Anything"
+msgstr ""
+
+#: ../download/features/index.php:178
+msgid ""
+"Forget about the format wars.  Miro can play MPEG, Quicktime, AVI, H.\\264, "
+"Divx, Windows Media, Flash Video, and almost every other major video format."
+msgstr ""
+
+#: ../download/features/index.php:180
+msgid "One After Another"
+msgstr ""
+
+#: ../download/features/index.php:181
+msgid ""
+"Set your Miro preferences to either play videos one after another (in the "
+"order they appear) or to play a video then stop. If you have Miro set to "
+"play videos one after another, you can always right-click on an individual "
+"video and have it play then stop."
+msgstr ""
+
+#: ../download/features/index.php:189
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: ../download/features/index.php:189
+msgid ""
+"Keyboard shortcuts for all the key playback commands makes it easy to "
+"configure a remote control."
+msgstr ""
+
+#: ../download/features/index.php:216
+msgid "All-New Interface"
+msgstr ""
+
+#: ../download/features/index.php:217
+msgid ""
+"A beautiful, completely redesigned interface makes using Miro easier than "
+"ever."
+msgstr ""
+
+#: ../download/features/index.php:227
+msgid "Video Playlists"
+msgstr ""
+
+#: ../download/features/index.php:228
+msgid ""
+"Bring together your favorite videos into a playlist.  You can drag them one "
+"by one or select a few and right-click to add to a playlist or odd  create a "
+"new playlist that they will be added to."
+msgstr ""
+
+#: ../download/features/index.php:236
+msgid "Move Your Library"
+msgstr ""
+
+#: ../download/features/index.php:237
+msgid ""
+"Running out of space? Miro can move your video collection to any location on "
+"your system, such as an external hard drive."
+msgstr ""
+
+#: ../download/features/index.php:240
+msgid "Channel and Playlist Folders"
+msgstr ""
+
+#: ../download/features/index.php:241
+msgid ""
+"Group your Feeds by topic by creating folders.  Do the same for playlists."
+msgstr ""
+
+#: ../download/features/index.php:244
+msgid "Bring Your Videos Together"
+msgstr ""
+
+#: ../download/features/index.php:245
+msgid ""
+"When you install Miro, you can search you computer to find all your video "
+"files and list them in your Miro Library."
+msgstr ""
+
+#: ../download/features/index.php:255
+msgid "Thumbnail Creation"
+msgstr ""
+
+#: ../download/features/index.php:255
+msgid "Miro will create a thumbnail for any video that doesn't have one."
+msgstr ""
+
+#: ../download/features/index.php:291
+msgid "Behind the Scenes"
+msgstr ""
+
+#: ../download/features/index.php:294
+msgid ""
+"Two of the biggest improvements in Miro 2.0 are under the hood, including:"
+msgstr ""
+
+#: ../download/features/index.php:297
+msgid ""
+"Better performance-- Miro starts up faster, uses less memory, and is more "
+"responsive."
+msgstr ""
+
+#: ../download/features/index.php:298
+msgid ""
+"Faster torrent downloads -- Miro incorporates the latest version of "
+"libtorrent for world-class torrent download speeds."
+msgstr ""
+
+#: ../download/features/index.php:311
+msgid "Bittorrent Logo"
+msgstr ""
+
+#: ../download/features/index.php:312
+msgid "Seamless BitTorrent"
+msgstr ""
+
+#: ../download/features/index.php:312
+msgid ""
+" Miro can download individual BitTorrent files and torrents that are in "
+"feeds.  When a video torrent is downloaded it will be in your channel and "
+"library ready to watch, just like any other video download."
+msgstr ""
+
+#: ../download/features/index.php:320
+msgid "Play in Separate Window"
+msgstr ""
+
+#: ../download/features/index.php:327
+msgid "Simple Disk Management"
+msgstr ""
+
+#: ../download/features/index.php:327
+msgid ""
+"Simply tell Miro to reserve a certain amount of space on your hard drive and "
+"it will stop downloading new videos when it reaches that limit."
+msgstr ""
+
+#: ../download/features/index.php:331
+msgid "Pause / Resume"
+msgstr ""
+
+#: ../download/features/index.php:331
+msgid ""
+"Easily pause and resume any individual download, all downloads in one "
+"channel, or all Miro downloads."
+msgstr ""
+
+#: ../download/features/index.php:348
+msgid "Individual Video Downloads"
+msgstr ""
+
+#: ../download/features/index.php:381
+msgid "RSS icon"
+msgstr ""
+
+#: ../download/features/index.php:382
+msgid "Video RSS"
+msgstr ""
+
+#: ../download/features/index.php:383
+msgid ""
+"Video RSS feeds are at the core of our vision for internet TV.  They provide "
+"a simple system that any publisher can use to distribute their content.  "
+"Viewers can bring feeds from anywhere together into one place.  Miro is "
+"compatible with more feeds than any other video app. "
+msgstr ""
+
+#: ../download/features/index.php:393
+msgid "Audio Support"
+msgstr ""
+
+#: ../download/features/index.php:394
+msgid ""
+"Miro now works with audio podcasts as well as video and there's a new "
+"section in the sidebar to organize your audio feeds."
+msgstr ""
+
+#: ../download/features/index.php:404
+msgid "Auto-Download"
+msgstr ""
+
+#: ../download/features/index.php:406
+msgid ""
+"Set any channel to download new videos as soon as they are published.  You "
+"can also tell Feeds to stop downloading new stuff if unwatched videos are "
+"piling up. "
+msgstr ""
+
+#: ../download/features/index.php:410
+msgid "1-Click Subscribe Buttons"
+msgstr ""
+
+#: ../download/features/index.php:412
+msgid ""
+"If someone comes to your website to see a video, take the chance to turn "
+"them into a subscriber.  1-click subscribe buttons let users go from web to "
+"Miro with a single click."
+msgstr ""
+
+#: ../download/features/index.php:416
+msgid "Rename Feeds"
+msgstr ""
+
+#: ../download/features/index.php:418
+msgid "Right-click on any channel "
+msgstr ""
+
+#: ../download/features/index.php:418
+msgid "to rename it."
+msgstr ""
+
+#: ../download/features/index.php:476
+msgid "Mac, Windows, Linux"
+msgstr ""
+
+#: ../download/features/index.php:477
+msgid ""
+"Miro works beautifully on all three major operating systems.  We make this "
+"effort because a new model for internet television has to be accessible to "
+"everyone."
+msgstr ""
+
+#: ../download/features/index.php:487
+msgid "Global Community"
+msgstr ""
+
+#: ../download/features/index.php:487
+#, php-format
+msgid ""
+"Volunteers from around the world help test, translate, and code Miro.  Only "
+"about 30% of our downloads come from the United States, where we're based."
+msgstr ""
+
+#: ../download/features/index.php:497
+msgid "Translations"
+msgstr ""
+
+#: ../download/features/index.php:499
+msgid ""
+"Miro is translated by volunteers into more than 40 languages and the Miro "
+"Guide lists Feeds from around the world in dozens of languages."
+msgstr ""
+
+#: ../download/features/index.php:505
+msgid ""
+"Miro is free, open-source software (licensed under the GPL).  Anyone is free "
+"to change the source code, contribute bug fixes and features, and make new "
+"versions."
+msgstr ""
+
+#: ../download/features/index.php:509
+msgid "Open Standards"
+msgstr ""
+
+#: ../download/features/index.php:511
+msgid ""
+"As important as open source code, Miro's embrace of open standards helps "
+"encourage innovation and competition.  Unlike proprietary video delivery "
+"systems, Miro works like the internet itself, utilizing open standards like "
+"RSS, HTTP, HTML/CSS, and BitTorrent."
+msgstr ""
+
+#: ../download/features/index.php:545
+msgid "Sites Section"
+msgstr ""
+
+#: ../download/features/index.php:547
+msgid "A new sites section lets Miro work seamlessly with the web."
+msgstr ""
+
+#: ../download/features/index.php:549
+msgid "Watch Streaming Shows"
+msgstr ""
+
+#: ../download/features/index.php:550
+msgid ""
+"You can now add shows from sites like Hulu to your Miro sidebar, in the new "
+"'Sites' section.  This lets you have all your shows-- streaming or download--"
+" in one place.  We've add a new section in the Miro Guide, listing the most "
+"popular streaming shows on the web."
+msgstr ""
+
+#: ../download/features/index.php:552
+msgid "Download Directly Into Miro"
+msgstr ""
+
+#: ../download/features/index.php:553
+msgid ""
+"You can also add other types of sites to your sidebar like LegalTorrents.com "
+"or Archive.org.  Browse the website as usual and whenever you click on a "
+".torrent or an .mp4 file (or any other video file that Miro supports), the "
+"video will download automatically in Miro.  It makes browsing, downloading, "
+"and watching video seamless."
+msgstr ""
+
+#: ../download/features/index.php:568
+msgid "Search Millions of Videos"
+msgstr ""
+
+#: ../download/features/index.php:569
+msgid ""
+"Miro can search and download from the biggest video sites including YouTube, "
+"Yahoo!, Google Video, Blip, and more."
+msgstr ""
+
+#: ../download/features/index.php:572
+msgid "Create Search Feeds"
+msgstr ""
+
+#: ../download/features/index.php:573
+msgid ""
+"Save any search to get new videos as they are published. Miro now downloads "
+"HD video from YouTube whenever it's available."
+msgstr ""
+
+#: ../download/features/index.php:577
+msgid "Search Within a Channel"
+msgstr ""
+
+#: ../download/features/index.php:578
+msgid ""
+"Save any search within a video feed as it's own channel.  Want to auto-"
+"download BoingBoing TV but only when they mention 'steampunks'?  Miro makes "
+"it easy."
+msgstr ""
+
+#: ../download/features/index.php:621
+msgid "Best of Its Kind"
+msgstr ""
+
+#: ../download/features/index.php:622
+msgid ""
+"The built-in and web accessible <a href=\"http://www.miroguide.com\">Miro "
+"Guide</a> is a full-featured web service that is simply the most intuitive, "
+"most elegant, and most useful catalog of video RSS feeds anywhere."
+msgstr ""
+
+#: ../download/features/index.php:638
+msgid "An Open Directory"
+msgstr ""
+
+#: ../download/features/index.php:639
+msgid "Anyone can submit an RSS feed to the Miro Guide."
+msgstr ""
+
+#: ../download/features/index.php:643
+msgid "Rate Feeds"
+msgstr ""
+
+#: ../download/features/index.php:644
+msgid ""
+"Like Netflix or Amazon, you can rate any channel in the Guide and get "
+"suggestions about Feeds you might like."
+msgstr ""
+
+#: ../download/features/index.php:648
+msgid "Alternate Channel Guides"
+msgstr ""
+
+#: ../download/features/index.php:649
+msgid ""
+"Maybe the best thing about the Miro Guide is that it doesn't lock you in.  "
+"Anyone can create an alternative guide of videos and feeds and you can add "
+"that guide to your Miro."
+msgstr ""
+
+#: ../download/features/index.php:682
+msgid "Email Feeds and Videos"
+msgstr ""
+
+#: ../download/features/index.php:683
+msgid ""
+"Every channel and video has an email button to quickly send a link to a "
+"friend."
+msgstr ""
+
+#: ../download/features/index.php:686
+msgid "Post to Social Sites"
+msgstr ""
+
+#: ../download/features/index.php:687
+msgid ""
+"Each video has links to post to Digg, Reddit, del.icio.us, and Video Bomb."
+msgstr ""
+
+#: ../download/features/index.php:692
+msgid "Import / Export Your Feeds"
+msgstr ""
+
+#: ../download/features/index.php:693
+msgid ""
+"Got great collection of Feeds?  Export your feeds as an OPML file and your "
+"friends can import it into their Miro or any other feed reader."
+msgstr ""
+
+#: ../download/features/index.php:705
+msgid ""
+"...and we're already building the next version.\n"
+"\t\t\t\tRead the "
+msgstr ""
+
+#: ../download/features/index.php:706
+msgid "to see where we're headed."
+msgstr ""
+
+#: ../download/for-windows/index.php:98
+msgid "If your download didn't start automatically, "
+msgstr ""
+
+#: ../download/for-windows/index.php:98 ../download/all/index.php:103
+#: ../download/downloading/index.php:152
+msgid "Need help with anything? "
+msgstr ""
+
+#: ../download/for-windows/index.php:98 ../download/all/index.php:103
+#: ../download/downloading/index.php:152 ../download/for-ubuntu/index.php:95
+msgid "Get help here"
+msgstr ""
+
+#: ../download/for-windows/index.php:173 ../download/all/index.php:153
+msgid ""
+"We are a non-profit and will never share your email address with anyone."
+msgstr ""
+
+#: ../download/for-windows/index.php:198
+msgid "Windows XP, Windows Vista or Windows 7; 128 MB RAM"
+msgstr ""
+
+#: ../download/all/index.php:8
+msgid "Miro Video Player | All Platforms"
+msgstr ""
+
+#: ../download/all/index.php:102
+msgid "Download the right Miro for you"
+msgstr ""
+
+#: ../download/all/index.php:179 ../download/all/index.php:191
+#: ../download/all/index.php:204 ../download/index.php:245
+#: ../download/index.php:247 ../download/index.php:248
+#: ../download/index.php:249
+msgid "Version"
+msgstr ""
+
+#: ../download/all/index.php:180 ../download/all/index.php:192
+#: ../download/index.php:245 ../download/index.php:247
+#: ../download/index.php:248
+msgid "Older Versions"
+msgstr ""
+
+#: ../download/all/index.php:182 ../download/all/index.php:195
+#: ../download/all/index.php:208
+msgid "Requires:"
+msgstr ""
+
+#: ../download/all/index.php:204
+msgid "Installation instructions"
+msgstr ""
+
+#: ../download/all/index.php:205
+msgid "PCF miro-releases PPA"
+msgstr ""
+
+#: ../download/all/index.php:206
+msgid "Older package files"
+msgstr ""
+
+#: ../download/all/index.php:215 ../download/source/index.php:146
+msgid "Source"
+msgstr ""
+
+#: ../download/all/index.php:217
+msgid "You can download source tarballs at:"
+msgstr ""
+
+#: ../download/all/index.php:220
+msgid ""
+"There are instructions for cloning the git repository and building Miro\n"
+"  from source"
+msgstr ""
+
+#: ../download/all/index.php:225
+msgid ""
+"Packages for other distributions that are created by and maintained by "
+"contributors"
+msgstr ""
+
+#: ../download/all/index.php:231
+msgid "Miro is in the Arch Linux repository:"
+msgstr ""
+
+#: ../download/all/index.php:237
+msgid "Report bugs to the"
+msgstr ""
+
+#: ../download/all/index.php:237
+msgid "Arch Linux bug tracker"
+msgstr ""
+
+#: ../download/all/index.php:244
+msgid ""
+"At this time, Miro is available for Debian stable, testing and unstable.\n"
+"  To install, run:"
+msgstr ""
+
+#: ../download/all/index.php:251
+msgid "You can report bugs to the"
+msgstr ""
+
+#: ../download/all/index.php:258
+msgid "Miro is in the Mandriva repositories.  To install type:"
+msgstr ""
+
+#: ../download/all/index.php:281
+msgid ""
+" Miro is available for Pardus 2008. It's in Pardus-Contrib repository.  If "
+"you haven't got the"
+msgstr ""
+
+#: ../download/all/index.php:282
+msgid " Contrib repository, do:"
+msgstr ""
+
+#: ../download/all/index.php:285
+msgid ""
+"Package Manager &gt; Settings &gt; Configure Package Manager &gt; Repos &gt; "
+"Add Repo"
+msgstr ""
+
+#: ../download/all/index.php:292
+msgid " After you have the Contrib repository, you can install Miro by:"
+msgstr ""
+
+#: ../download/all/index.php:295
+msgid "Package Manager &gt; Search: miro , select it, then install."
+msgstr ""
+
+#: ../download/all/index.php:316
+msgid "If you install our PCF packages, you should report bugs to"
+msgstr ""
+
+#: ../download/all/index.php:320
+msgid ""
+"The MOTU also maintain packages of Miro for Ubuntu in the universe \n"
+"  repository.  You can get them by:"
+msgstr ""
+
+#: ../download/all/index.php:327
+msgid "If you install the MOTU packages, you should report bugs to"
+msgstr ""
+
+#: ../download/all/index.php:335
+msgid "Your distribution here!"
+msgstr ""
+
+#: ../download/all/index.php:337
+msgid ""
+"If you maintain packages for your favorite distribution, let us know and \n"
+"  we'll list the web page here.  We cannot possibly maintain Miro packages \n"
+"  for Linux distributions we're not running.  If you can help out by \n"
+"  contributing to building Miro on your distribution, let us know and we'll "
+"\n"
+"  help as best we can."
+msgstr ""
+
+#: ../download/downloading/index.php:5 ../publish/examples/sidebar-left.php:3
+#: ../publish/examples/3-col.php:3 ../publish/examples/sidebar-right.php:3
+#: ../publish/examples/1-col.php:3 ../open-source/subscribe/index.php:3
+msgid "Miro - free, open source internet tv and video player"
+msgstr "Miro - trình xem phim và tv internet miễn phí và mã nguồn mở"
+
+#: ../download/downloading/index.php:103
+msgid "Miro for"
+msgstr ""
+
+#: ../download/downloading/index.php:146
+msgid "is Downloading..."
+msgstr ""
+
+#: ../download/downloading/index.php:150
+msgid "if your download didn't start automatically, "
+msgstr ""
+
+#: ../download/downloading/index.php:203
+msgid ""
+"We are a non-profit and will\n"
+"never share your email address with anyone."
+msgstr ""
+
+#: ../download/index.php:12
+msgid "Miro Video Player | Download"
+msgstr ""
+
+#: ../download/index.php:147
+msgid "Download Miro for"
+msgstr ""
+
+#: ../download/index.php:240
+msgid "Other Operating Systems"
+msgstr ""
+
+#: ../download/index.php:242
+#, php-format
+msgid ""
+"Miro is cross-platform and 100% free and open-source. Built by a non-profit "
+"company and volunteers around the world."
+msgstr ""
+
+#: ../download/index.php:245
+msgid "Download Miro for OSX"
+msgstr ""
+
+#: ../download/index.php:247
+msgid "Download Miro for Windows"
+msgstr ""
+
+#: ../download/index.php:248
+msgid "Install Miro for Ubuntu"
+msgstr ""
+
+#: ../download/index.php:249
+msgid "Download Source &amp; Other Distros"
+msgstr ""
+
+#: ../download/source/index.php:5
+msgid "Miro Video Player | Source"
+msgstr ""
+
+#: ../download/source/index.php:109
+msgid "Linux Source and Other Distros"
+msgstr ""
+
+#: ../download/screenshots/index.php:3
+msgid "Miro Video Player | Screenshots"
+msgstr ""
+
+#: ../download/screenshots/index.php:47
+msgid "Screenshots of Miro "
+msgstr ""
+
+#: ../download/screenshots/index.php:47
+msgid " for OSX"
+msgstr ""
+
+#: ../download/screenshots/index.php:71
+msgid "Screenshots of Miro 2.0 for Windows"
+msgstr ""
+
+#: ../download/screenshots/index.php:90
+msgid "Screenshots of Miro 2.0 for Linux"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:7
+msgid "Miro Video Player | Downloading Miro for Ubuntu"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:79
+msgid "View installation instructions below for Ubuntu."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:91
+msgid "Download Miro for Ubuntu"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:95
+msgid "Need help with anything?"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:144
+msgid ""
+"We are a non-profit and willnever share your email address with anyone."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:152
+msgid "Installation instructions:"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:153
+msgid ""
+"Miro packages for Ubuntu created by PCF are in the PCF team Launchpad PPA."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:154
+msgid "We build packages for the two most recent Ubuntu versions."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:155
+msgid "As of May, 2012 that is Oneiric and Precise."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:157
+msgid "Add the PPA as a source."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:158
+msgid "Our PPA is"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:161
+msgid "For directions on how to add the PPA, see:"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:165
+msgid "Open Synaptic Package Manager"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:166
+msgid ""
+"Once PCF's repository is added, you can install Miro like any other Ubuntu "
+"package.  Hit the Reload button, search for \"Miro\" and mark the packages "
+"for installation and click Apply."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:167 ../using-miro/index.php:46
+#: ../using-miro/index.php:61 ../using-miro/index.php:89
+#: ../using-miro/index.php:105 ../using-miro/index.php:137
+msgid "That's it!"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:168
+msgid "After this you will be notified when new versions are released."
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:169
+msgid "(Optional) Install codecs"
+msgstr ""
+
+#: ../download/for-ubuntu/index.php:170
+msgid ""
+"If permitted in your location, you can download support for additional "
+"codecs at <a "
+"href=\"https://help.ubuntu.com/community/RestrictedFormats/\">https://help.ub"
+"untu.com/community/RestrictedFormats</a>."
+msgstr ""
+
+#: ../publish/video-site/index.php:3
+msgid "Miro Video Player | Make a video site)"
+msgstr ""
+
+#: ../publish/video-site/index.php:38 ../publish/examples/sidebar-left.php:24
+#: ../publish/examples/3-col.php:17 ../publish/examples/sidebar-right.php:24
+#: ../publish/examples/1-col.php:24 ../open-source/subscribe/index.php:38
+msgid "Turn your visitors into subscribers."
+msgstr ""
+
+#: ../publish/video-site/index.php:39
+msgid ""
+"Getting your videos into Miro is free and easy. We'll help you reach our "
+"audience of hundreds of thousands of users around the world. And when "
+"someone stops by your website to watch a video, seize that chance to turn a "
+"one-time viewer into a long-term fan by getting them to subscribe to your "
+"show."
+msgstr ""
+
+#: ../publish/video-site/index.php:46
+msgid "Put Your Videos on Miro"
+msgstr ""
+
+#: ../publish/video-site/index.php:48
+msgid ""
+"To get into Miro, you'll want to add your video feed (commonly known as RSS "
+"or video podcast) to the Miro Content Guide. Don't worry if you haven't "
+"heard of a feed - you probably already have one via your video sharing "
+"account, blog, or publishing system."
+msgstr ""
+
+#: ../publish/video-site/index.php:51
+msgid "Find out if your hosting service offers an RSS feed. "
+msgstr ""
+
+#: ../publish/video-site/index.php:52
+msgid "Submit your RSS feed to the Miro Guide"
+msgstr ""
+
+#: ../publish/video-site/index.php:52 ../publish/guide/index.php:46
+msgid ")."
+msgstr ""
+
+#: ../publish/video-site/index.php:53
+msgid "Put a"
+msgstr ""
+
+#: ../publish/video-site/index.php:53
+msgid "one-click subscribe button"
+msgstr ""
+
+#: ../publish/video-site/index.php:53
+msgid ""
+"on your site.  When people stop by to watch one video, they can use this "
+"button to subscribe and get new videos automatically."
+msgstr ""
+
+#: ../publish/video-site/index.php:58
+msgid ""
+"Running into any problems?  We'd love to help: publishing [at] pculture.org"
+msgstr ""
+
+#: ../publish/video-site/index.php:63
+msgid "Who's Using Miro?"
+msgstr ""
+
+#: ../publish/video-site/index.php:66
+msgid ""
+"Virtually every video RSS / video podcast publisher in the world offers "
+"their content in the Miro Guide, including some of the biggest international "
+"media brands.  But at the heart of the Miro mission is the commitment to "
+"offer independent and non-commercial creators access to the very same "
+"audience.  There's no longer any reason why you need a big budget to reach a "
+"big audience, even with HD video."
+msgstr ""
+
+#: ../publish/video-site/index.php:74 ../publish/examples/sidebar-left.php:37
+#: ../publish/examples/sidebar-right.php:37 ../publish/examples/1-col.php:37
+#: ../open-source/subscribe/index.php:51
+msgid "How to Shoot, Edit, and Publish Online Video"
+msgstr ""
+
+#: ../publish/video-site/index.php:79
+msgid ""
+"We have created a book-quality set of guides for shooting, editing, "
+"publishing, and promoting internet video. We think it's the best resource "
+"anywhere. If you are getting started with creating internet vieo or if you "
+"want to learn more about a specific topic, it's the place to start."
+msgstr ""
+
+#: ../publish/video-site/index.php:80
+msgid "Visit Make Internet TV"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:2 ../publish/sidebar.guide.php:2
+#: ../publish/sidebar.social.php:2
+msgid "The Publisher's Toolkit"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:5 ../publish/sidebar.guide.php:5
+#: ../publish/sidebar.social.php:7
+msgid "Get in the Miro Guide"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:5 ../publish/sidebar.guide.php:5
+#: ../publish/sidebar.social.php:7
+msgid "Simple instructions for getting into the Miro Content Guide."
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:6 ../publish/sidebar.guide.php:6
+#: ../publish/sidebar.social.php:8
+msgid "One-Click Link Builder"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:6 ../publish/sidebar.guide.php:6
+#: ../publish/sidebar.social.php:8
+msgid ""
+"Similar to \"add this podcast to iTunes\" buttons, Miro 1-click links let "
+"people add your channel directly from your site."
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:7 ../publish/sidebar.guide.php:7
+#: ../publish/sidebar.social.php:9
+msgid "Custom Miro Generator"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:7 ../publish/sidebar.guide.php:7
+#: ../publish/sidebar.social.php:9
+msgid ""
+"Distribute a version of Miro with <strong>your</strong> name and "
+"<strong>your</strong> channels."
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:8 ../publish/sidebar.guide.php:8
+#: ../publish/sidebar.social.php:10
+msgid "Media RSS Specification"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:8 ../publish/sidebar.guide.php:8
+#: ../publish/sidebar.social.php:10
+msgid "These standard RSS schemes work best with Miro."
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:9 ../publish/sidebar.guide.php:9
+#: ../publish/sidebar.social.php:11
+msgid "RSS Feed Validator"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:9 ../publish/sidebar.guide.php:9
+#: ../publish/sidebar.social.php:11
+msgid "Test your feed with this site."
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:16
+msgid "Troubleshooting Sections"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:18
+#: ../publish/troubleshooting/index.php:37
+msgid "How do I get my video into Miro?"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:19
+#: ../publish/troubleshooting/index.php:45
+msgid "Why doesn't my RSS feed work in Miro?"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:20
+#: ../publish/troubleshooting/index.php:48
+msgid "How can I get video RSS feeds in my custom website?"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:21
+#: ../publish/troubleshooting/index.php:51
+msgid "How do I publish in HD?"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:22
+#: ../publish/troubleshooting/index.php:54
+msgid "How do I take advantage of Bittorrent in Miro?"
+msgstr ""
+
+#: ../publish/sidebar.publish-toolkit.php:23
+#: ../publish/troubleshooting/index.php:57
+msgid "Will you feature my videos in the Miro Guide?"
+msgstr ""
+
+#: ../publish/sidebar.audience.php:4 ../publish/sidebar.co-branded.php:7
+msgid "Revision3"
+msgstr ""
+
+#: ../publish/sidebar.audience.php:4
+msgid ""
+"Run a beautiful video presentation website on your own domain, without "
+"having to maintain the software."
+msgstr ""
+
+#: ../publish/sidebar.audience.php:5 ../publish/sidebar.co-branded.php:8
+msgid "TED"
+msgstr ""
+
+#: ../publish/sidebar.audience.php:5
+msgid ""
+"Works with your existing video hosting setup and workflow - no need to re-"
+"post videos."
+msgstr ""
+
+#: ../publish/sidebar.audience.php:6 ../publish/sidebar.co-branded.php:9
+msgid "NDR"
+msgstr ""
+
+#: ../publish/sidebar.audience.php:6
+msgid ""
+"Works with free video hosting services, if you don't already have videos "
+"online."
+msgstr ""
+
+#: ../publish/sidebar.audience.php:7 ../publish/sidebar.audience.php:8
+#: ../publish/sidebar.audience.php:9 ../publish/sidebar.audience.php:10
+#: ../publish/sidebar.co-branded.php:10
+msgid "Blink Broadband"
+msgstr ""
+
+#: ../publish/sidebar.audience.php:7
+msgid ""
+"Lets you bring together videos from a wide-variety of hosts and sources, "
+"into one curated experience."
+msgstr ""
+
+#: ../publish/sidebar.audience.php:8
+msgid "Automatically import and publish RSS feeds of videos from any source."
+msgstr ""
+
+#: ../publish/sidebar.audience.php:9
+msgid ""
+"Create a discussion space for video about your community; strengthen your "
+"relationships with your community."
+msgstr ""
+
+#: ../publish/sidebar.audience.php:10
+msgid "Runs on open-source software."
+msgstr ""
+
+#: ../publish/examples/sidebar-left.php:25 ../publish/examples/3-col.php:18
+#: ../publish/examples/sidebar-right.php:25 ../publish/examples/1-col.php:25
+#: ../open-source/subscribe/index.php:39
+msgid ""
+"Getting your videos into Miro is free and easy: we'll help you reach our "
+"audience of hundreds of thousands of users around the world. And when "
+"someone stops by your website to watch a video, seize that chance to turn a "
+"one-time viewer into a long-term fan."
+msgstr ""
+
+#: ../publish/examples/sidebar-left.php:28
+#: ../publish/examples/sidebar-right.php:28 ../publish/examples/1-col.php:28
+#: ../open-source/subscribe/index.php:42
+msgid "Get Your Videos into Miro"
+msgstr "Đưa videos của bạn vào Miro"
+
+#: ../publish/examples/sidebar-left.php:29
+#: ../publish/examples/sidebar-right.php:29 ../publish/examples/1-col.php:29
+#: ../open-source/subscribe/index.php:43
+msgid ""
+"Miro converts any media RSS feed into a channel. Don't worry if you've never "
+"heard of RSS &mdash; it's an open distribution format that works with Miro, "
+"iTunes, and lots of other tools. Many blogs and video sharing services "
+"automatically generate an RSS feed."
+msgstr ""
+
+#: ../publish/examples/sidebar-left.php:32
+#: ../publish/examples/sidebar-right.php:32 ../publish/examples/1-col.php:32
+#: ../open-source/subscribe/index.php:46
+msgid "Find out if your hosting service offers an RSS feed."
+msgstr ""
+
+#: ../publish/examples/sidebar-left.php:32
+#: ../publish/examples/sidebar-right.php:32 ../publish/examples/1-col.php:32
+#: ../open-source/subscribe/index.php:46
+msgid "Here's what to look for"
+msgstr ""
+
+#: ../publish/examples/sidebar-left.php:33
+#: ../publish/examples/sidebar-right.php:33 ../publish/examples/1-col.php:33
+#: ../open-source/subscribe/index.php:47
+msgid "Submit your RSS feed and info about your show to the Miro Guide"
+msgstr ""
+
+#: ../publish/examples/sidebar-left.php:34
+#: ../publish/examples/sidebar-right.php:34 ../publish/examples/1-col.php:34
+#: ../open-source/subscribe/index.php:48
+msgid "Put a one-click subscribe button onto your site"
+msgstr ""
+
+#: ../publish/examples/sidebar-left.php:39
+#: ../publish/examples/sidebar-right.php:39 ../publish/examples/1-col.php:39
+#: ../open-source/subscribe/index.php:53
+msgid ""
+"We have created a detailed set of guides for shooting, editing, publishing, "
+"and promoting internet video. We think it's the best resource anywhere.\n"
+"If you are getting started with creating internet vieo or if you want to "
+"learn more about a specific topic, it's the best place to start."
+msgstr ""
+
+#: ../publish/examples/3-col.php:21 ../publish/examples/3-col.php:29
+#: ../publish/examples/3-col.php:42 ../publish/examples/3-col.php:50
+#: ../publish/examples/3-col.php:63 ../publish/examples/3-col.php:71
+msgid "The Miro Audience"
+msgstr ""
+
+#: ../publish/custom/index.php:5 ../publish/custom/contact_confirm/index.php:5
+msgid "Miro Video Player | Co-Branded Players"
+msgstr ""
+
+#: ../publish/custom/index.php:53
+msgid "Custom and Branded Video Players"
+msgstr ""
+
+#: ../publish/custom/index.php:55
+msgid ""
+"The Miro team creates custom and branded players for various organizations. "
+"Our partners\n"
+"\t\t\t  and clients have included prominent video creators, distributors, "
+"technology consulting companies\n"
+"\t\t\t  and ISPs. If your organization could benefit from an application "
+"like Miro, please contact us at <a "
+"href=\"mailto:custom@pculture.org\">custom@pculture.org"
+msgstr ""
+
+#: ../publish/custom/index.php:62
+msgid "Branded Players"
+msgstr ""
+
+#: ../publish/custom/index.php:63
+msgid ""
+"A branded Miro Player can provide your audience with quality desktop "
+"software for downloading, managing, and watching your content. The following "
+"screenshots demonstrate the main features of a branded player created for "
+"the "
+msgstr ""
+
+#: ../publish/custom/index.php:63
+msgid "TED conference"
+msgstr ""
+
+#: ../publish/custom/index.php:63
+msgid "For more information on branded players, please contact"
+msgstr ""
+
+#: ../publish/custom/index.php:65
+msgid "Your Name"
+msgstr ""
+
+#: ../publish/custom/index.php:69
+msgid ""
+"From install through usage, your audience members will experience an "
+"application with your name. This provides a consistent brand experience, "
+"enabling you to smoothly shift your brand from the web to the desktop. "
+msgstr ""
+
+#: ../publish/custom/index.php:71
+msgid "Your Logo"
+msgstr ""
+
+#: ../publish/custom/index.php:75
+msgid ""
+"Branded players give your logo a permanent place on the desktops of your "
+"audience members, in the form of the application icon. This icon increases "
+"exposure to your brand and makes your content one click away at all times."
+msgstr ""
+
+#: ../publish/custom/index.php:84
+msgid ""
+"By pre-loading your desktop video player with content of your choice, you "
+"can provide your users with easy and instant access to your universe of "
+"content at the click of a button. You can pre-install websites, video feeds "
+"and audio feeds. Finally, you can determine which of these pieces of content "
+"the user sees when they start your custom player."
+msgstr ""
+
+#: ../publish/custom/index.php:87
+msgid ""
+"For organizations with unique needs, the Miro team can offer development of "
+"video platforms and services on a consulting basis. To learn more about this "
+"offering, please contact custom@pculture.org."
+msgstr ""
+
+#: ../publish/custom/index.php:90
+msgid ""
+"maintains a database of thousands of the web's best episodic TV shows.  For "
+"each of these shows, Miro maintains key metadata including categories, "
+"languages and ratings. If you are looking to collect video content on a "
+"specific topic or to complement your existing content, we can provide you "
+"with a custom solution utilizing our robust API. To learn more about this "
+"offering, please contact"
+msgstr ""
+
+#: ../publish/custom/contact_confirm/index.php:48
+msgid "Thanks for getting in touch, we will get back to you shortly."
+msgstr ""
+
+#: ../publish/index.php:47
+msgid "What do you want to do?"
+msgstr ""
+
+#: ../publish/index.php:51
+msgid "Create a video site"
+msgstr ""
+
+#: ../publish/index.php:51
+msgid "Miro Community lets you make a beautiful video website in seconds"
+msgstr ""
+
+#: ../publish/index.php:59
+msgid "Put my podcast in the Miro Guide"
+msgstr ""
+
+#: ../publish/index.php:59
+msgid ""
+"The Miro Guide reaches more than 2 million people each month.  Submit and "
+"promote your podcast."
+msgstr ""
+
+#: ../publish/index.php:67
+msgid "Promote my podcast to Miro users"
+msgstr ""
+
+#: ../publish/index.php:67
+msgid ""
+"Add a Miro subscribe button to your audio or video podcast website to get "
+"Miro users subscribing."
+msgstr ""
+
+#: ../publish/index.php:75
+msgid "Learn how to produce great web video"
+msgstr ""
+
+#: ../publish/index.php:75
+msgid "Make internet TV is a guide book for creating online video."
+msgstr ""
+
+#: ../publish/subnav.php:6 ../publish/troubleshooting/index.php:58
+msgid "Miro Guide"
+msgstr "Miro Guide"
+
+#: ../publish/subnav.php:7
+msgid "Make a Video Site"
+msgstr ""
+
+#: ../publish/makeinternettv/index.php:3
+msgid "Miro Video Player | Make Internet TV"
+msgstr ""
+
+#: ../publish/makeinternettv/index.php:66
+msgid "Learn Production, Publishing, and Promotion"
+msgstr ""
+
+#: ../publish/makeinternettv/index.php:67
+msgid "Make Internet TV"
+msgstr ""
+
+#: ../publish/makeinternettv/index.php:67
+msgid "is a website that reads like an interactive book for "
+msgstr ""
+
+#: ../publish/makeinternettv/index.php:67
+msgid ""
+"learning the basics of shooting, editing, and publishing internet video. "
+msgstr ""
+
+#: ../publish/guide/index.php:3
+msgid "Miro Video Player | The Miro Guide)"
+msgstr ""
+
+#: ../publish/guide/index.php:38
+msgid "A Vast New Audience."
+msgstr ""
+
+#: ../publish/guide/index.php:39
+msgid ""
+"The Miro Guide, our open content directory, is browsed by a large and global "
+"audience of Miro users and is also avialable in any web browser at"
+msgstr ""
+
+#: ../publish/guide/index.php:39
+msgid "miroguide.com"
+msgstr ""
+
+#: ../publish/guide/index.php:39
+msgid ""
+".  Your media will be showcased with a wide variety of content, ranging from "
+"mainstream (HBO, ABC, NBC), to professionally produced web content ( "
+"Revision3, Next New Networks, Rocketboom), to public broadcasting (PBS, NPR, "
+"LinkTV, Democracy Now!), to completely independent video feeds."
+msgstr ""
+
+#: ../publish/guide/index.php:42
+msgid "Adding a Show to the Miro Guide"
+msgstr ""
+
+#: ../publish/guide/index.php:44
+msgid "Make an account"
+msgstr ""
+
+#: ../publish/guide/index.php:44
+msgid "in the Miro Guide"
+msgstr ""
+
+#: ../publish/guide/index.php:45
+msgid ""
+"Click your username in the sub-navigation bar and select 'Submit Show.'"
+msgstr ""
+
+#: ../publish/guide/index.php:46
+msgid ""
+"Add your RSS feed and channel information. Follow the steps that are "
+"presented (for more info on RSS feeds, see our"
+msgstr ""
+
+#: ../publish/guide/index.php:46
+msgid "troubleshooting guide"
+msgstr ""
+
+#: ../publish/guide/index.php:47
+msgid ""
+"Our team of volunteer moderators will check to make sure the channel works "
+"in Miro. As long as it does, your channel becomes part of the Miro Guide!"
+msgstr ""
+
+#: ../publish/guide/index.php:52
+msgid ""
+"We reserve the right to reject spam, porn, hate speech, and unauthorized "
+"copyrighted material."
+msgstr ""
+
+#: ../publish/social-media/index.php:3
+msgid "Miro Video Player | Social Media"
+msgstr ""
+
+#: ../publish/social-media/index.php:33
+msgid "Miro: A Home for Social Issue Media"
+msgstr ""
+
+#: ../publish/social-media/index.php:34
+msgid ""
+"Miro is the world's largest distribution outlet for downloading social media "
+"video.  It's not a coincidence: we're a non-profit organization that's "
+"creating a level playing field where independent publishers and non-profits "
+"can reach large audiences around the world. "
+msgstr ""
+
+#: ../publish/social-media/index.php:39
+msgid "Reach More People"
+msgstr ""
+
+#: ../publish/social-media/index.php:40
+msgid ""
+"Miro can help get your work to more people and it's completely free to both "
+"you and them.  The simplest argument for why you should publish to Miro is "
+"this: Miro can help you turn occasional viewers of your videos into "
+"subscribers who will receive your new videos automatically."
+msgstr ""
+
+#: ../publish/social-media/index.php:43
+msgid "How LinkTV Uses Miro"
+msgstr ""
+
+#: ../publish/social-media/index.php:45
+msgid ""
+"\"Miro is a superb application for managing and playing high quality videos "
+"on demand, but as an open platform for independent producers and "
+"broadcasters around the world, Miro also plays a critical role in the future "
+"of social media.\""
+msgstr ""
+
+#: ../publish/social-media/index.php:46
+msgid ""
+"LinkTV uses Miro as their primary online distribution method for their "
+"shows.  When viewers watch lower resolution clips on the Link website, they "
+"also see the option to subscribe to Link content with Miro and receive new "
+"episodes automatically.  LinkTV has also created a free custom version of "
+"Miro which comes pre-subscribed to all of their shows and presents their "
+"website (you can "
+msgstr ""
+
+#: ../publish/social-media/index.php:46
+msgid "get their player here"
+msgstr ""
+
+#: ../publish/social-media/index.php:52
+msgid "How NRK Uses Miro"
+msgstr ""
+
+#: ../publish/social-media/index.php:54
+#, php-format
+msgid ""
+"NRK is the Norweigan Public Broadcaster.  They distribute some of their "
+"shows in HD and recommend Miro.  Miro's built-in BitTorrent support allows "
+"NRK to deliver very large, very high quality video files to thousands of "
+"people around the world while saving 95% of the bandwidth cost.  Miro makes "
+"subscribing to their BitTorrent feeds effortless for their viewers."
+msgstr ""
+
+#: ../publish/social-media/index.php:61
+msgid "And Many, Many More..."
+msgstr ""
+
+#: ../publish/social-media/index.php:68
+msgid ""
+"Take a look through the Miro Guide to see the hundreds of social media "
+"organizations using Miro."
+msgstr ""
+
+#: ../publish/sidebar.co-branded.php:4
+msgid "Examples of Custom and Branded Players"
+msgstr ""
+
+#: ../publish/sidebar.co-branded.php:7
+msgid ""
+"Revision3 has used a branded version of Miro giving users quick and easy "
+"access to all of their content."
+msgstr ""
+
+#: ../publish/sidebar.co-branded.php:8
+msgid ""
+"For the 2008 TED conference, we created a branded player that TED "
+"distributed to all conference attendees and made available to TED Talks "
+"enthusiasts via their website."
+msgstr ""
+
+#: ../publish/sidebar.co-branded.php:9
+msgid ""
+"NDR, one of Germany's largest public broadcasters, uses a branded Miro "
+"player to deliver their podcasts to users around the world in a premium "
+"context. "
+msgstr ""
+
+#: ../publish/sidebar.co-branded.php:10
+msgid ""
+"Blink Broadband, an Internet Service Provider from Trinidad and Tobago, uses "
+"a custom Miro player to deliver relevant content to their subscribers."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:3
+msgid "Miro Video Player | Troubleshooting"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:32
+msgid "Shoot, I think we can help."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:38
+msgid ""
+"Miro works best when there you've got an RSS feed. If that sounds confusing, "
+"don't worry, many services create an RSS feed automatically (blip.tv, "
+"YouTube, Google Video, and many others). Try out "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:38
+msgid "this web app"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:38
+msgid " to see if you've already got one."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:41
+msgid ""
+"Once you have the URL for your RSS feed, test it out in Miro (ctrl+N in "
+"Miro, then paste the URL). If videos appear, download, and play back, you're "
+"all set to "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:41
+msgid "submit your feed"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:41
+msgid " to the Miro Content Guide."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:43
+msgid "Another way to get your video to jump into Miro is with a "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:43
+msgid "one click subscribe"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:43
+msgid ""
+" button or link. This is very similar to the \"Add Podcast to iTunes\" "
+"buttons you sometimes see. They help your viewers subscribe immediately in "
+"Miro, and also show that you support a decentralized media infrastructure."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:46
+msgid ""
+"Make sure you've got a Media RSS feed - the easiest way to know if you've "
+"got one is by loading the RSS feed URL in the "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:46
+msgid "Firefox 3"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:46
+msgid ""
+" browser. Look for a link to your video file below each post. Many services "
+"add this automatically. If your feed is missing the links, you may be able "
+"to use a service like "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:46
+msgid "FeedBurner"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:46
+msgid ""
+" to add enclosures (make sure you check the \"I am a podcaster\" box). If "
+"you're still having trouble, you might try some of the options below."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid "For technical info on feeds, check out the "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid "specifications for Media RSS"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid ""
+". Many CMS's (Wordpress, Drupal, Plone, etc) have plugins for Media RSS. "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid "Show in a Box"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid ""
+" is a great resource for those using Wordpress. If you need to troubleshoot "
+"a feed you're building, we recommend testing with "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid "FeedValidator"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid ""
+". Finally, alternative to building a feed is a service that will allow you "
+"to hand tailor a feed, such as "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+#: ../publish/troubleshooting/index.php:55
+msgid "RapidFeeds"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:49
+msgid ""
+". Make sure you put your media link in the 'Podcast URL' field, when you're "
+"adding an item."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:52
+msgid ""
+"HD publishing can happen with a normal Media RSS feed, only with links to "
+"larger HD files. If you'd like an easy to use service that will publish "
+"short HD files, we recommend "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:52
+msgid "blip.tv"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:52
+msgid ""
+". For longer form HD content, you can either host the files yourself or use "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:52
+msgid "Archive.org"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:52
+msgid ". The "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:52
+msgid "video blog guide"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:52
+msgid ""
+" at Make Internet TV is a helpful resource for self-publishing HD. Also, "
+"consider Bittorrent publishing if bandwidth prices are prohibitive."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:55
+msgid ""
+"The first step is creating and seeding a .torrent file that viewers can "
+"share. You can do so for free using "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:55
+msgid "these instructions"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:55
+msgid ""
+". A non-free option is the Amazon S3 hosting service, which handles both the "
+"creation and seeding of the .torrent file ("
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:55
+msgid "more info on S3+Bittorrent"
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:55
+msgid ""
+"). The final step is to create a Media RSS feed with links to .torrent files "
+"in the media enclosures (this is where the .mov or .mp3 link would normally "
+"go). If you're not sure how to create an RSS feed, you can use "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:55
+msgid ""
+" to make a feed. Just use the .torrent URL for the podcasting URL on your "
+"channel's items. Miro makes the once difficult task of watching media with "
+"Bittorrent completely transparent and easy for the user."
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:58
+msgid "If your channel is in the "
+msgstr ""
+
+#: ../publish/troubleshooting/index.php:58
+msgid ""
+", just send us the URL (feedback [at] pculture [dot] org). We get most "
+"excited about high-quality independent media that is published on a regular "
+"schedule."
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:2
+msgid "Make Internet TV Chapters"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:5
+msgid "Introduction"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:5
+msgid "The basics of creating internet video from A-Z!"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:6
+msgid "Chapter 1: Equipment"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:6
+msgid "Get the right gear for your projects."
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:7
+msgid "Chapter 2: Shoot"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:7
+msgid "Techniques for capturing audio and video."
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:8
+msgid "Chapter 3: Edit"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:8
+msgid "Transform raw footage into something sweet."
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:9
+msgid "Chapter 4: License"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:9
+msgid "Don't let copyright hold you back!"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:10
+msgid "Chapter 5: Publish"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:10
+msgid "Make it available to a billion people."
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:11
+msgid "Chapter 6: Promote"
+msgstr ""
+
+#: ../publish/sidebar.publish-mitv.php:11
+msgid "Get Watched."
+msgstr ""
+
+#: ../publish/sidebar.social.php:6
+msgid "Get your videos onto Miro "
+msgstr ""
+
+#: ../publish/sidebar.social.php:6
+msgid ""
+"It's free and very easy to get started using Miro-- many free video hosting "
+"sites create Miro-compatible RSS feeds automatically.  Here's what you need "
+"to know to get started."
+msgstr ""
+
+#: ../using-miro/index.php:32
+msgid "The first 5 things you should do with Miro"
+msgstr ""
+
+#: ../using-miro/index.php:41
+msgid "Pull all your music and videos together in one place"
+msgstr ""
+
+#: ../using-miro/index.php:42
+msgid ""
+"Since Miro can play almost any audio and video format, you'll see all of "
+"your stuff in one place.  Just 'Watch' your media folders and your music and "
+"video will show up in Miro (without moving or duplicating the files)-- and "
+"when anything is added to these folders it will also appear (don't worry, "
+"Miro won't duplicate or move the files).  It's super easy to switch from "
+"iTunes"
+msgstr ""
+
+#: ../using-miro/index.php:44 ../using-miro/index.php:59
+#: ../using-miro/index.php:86 ../using-miro/index.php:101
+#: ../using-miro/index.php:128
+msgid "Step 1"
+msgstr ""
+
+#: ../using-miro/index.php:44
+msgid ""
+"Select the Sidebar menu and add your current music, video, and download "
+"folders as \"Watched Folders\"."
+msgstr ""
+
+#: ../using-miro/index.php:56
+msgid "Add your favorite Video & Music websites"
+msgstr ""
+
+#: ../using-miro/index.php:57
+msgid ""
+"Add your favorite music, video, or download sites to your Miro sidebar, so "
+"that you can stream or download files right into your library."
+msgstr ""
+
+#: ../using-miro/index.php:59
+msgid ""
+"Select the Sidebar menu, choose 'Add Source' and enter the website URL."
+msgstr ""
+
+#: ../using-miro/index.php:82
+msgid "Share across your computers"
+msgstr ""
+
+#: ../using-miro/index.php:83
+msgid ""
+"If more than one Miro is running on your local network, you can share your "
+"Music and Videos.  Stream or transfer files from upstairs to downstairs, "
+"effortlessly."
+msgstr ""
+
+#: ../using-miro/index.php:86
+msgid "Select the Connect tab in your sidebar, enable sharing. "
+msgstr ""
+
+#: ../using-miro/index.php:87 ../using-miro/index.php:102
+#: ../using-miro/index.php:130
+msgid "Step 2"
+msgstr ""
+
+#: ../using-miro/index.php:87
+msgid ""
+"Open Miro on any other computer on your network to stream or copy these "
+"files."
+msgstr ""
+
+#: ../using-miro/index.php:98
+msgid "Sync to your phone or tablet"
+msgstr ""
+
+#: ../using-miro/index.php:99
+msgid ""
+"Sick of using a music player that doesn't sync to your phone?  Miro can sync "
+"to lots of devices, including any Android phone or tablet.  Miro will even "
+"convert video files to the right format to play on your phone."
+msgstr ""
+
+#: ../using-miro/index.php:101
+msgid "Connect your phone or tablet to your computer with the USB cable."
+msgstr ""
+
+#: ../using-miro/index.php:102
+msgid "Select your phone in the Connect section of the sidebar"
+msgstr ""
+
+#: ../using-miro/index.php:103 ../using-miro/index.php:132
+msgid "Step 3"
+msgstr ""
+
+#: ../using-miro/index.php:103
+msgid ""
+"Drag individual files to your phone or use the automatic syncing options."
+msgstr ""
+
+#: ../using-miro/index.php:122
+msgid "Buy a song or an app"
+msgstr ""
+
+#: ../using-miro/index.php:123
+msgid ""
+"Miro has Amazon's MP3 and Android stores built-in as well as Google's "
+"Android store.  Buy an MP3 and have it download right into your Miro "
+"library, then sync it to your phone.  Or buy a mobile app and Amazon or "
+"Google will sync them to your phone automatically.\n"
+msgstr ""
+
+#: ../using-miro/index.php:128
+msgid "Choose Amazon MP3 Store in the 'Stores' section of your sidebar."
+msgstr ""
+
+#: ../using-miro/index.php:130
+msgid ""
+"Buy an MP3 and it will download right into your Miro library (ready for "
+"syncing to your phone)."
+msgstr ""
+
+#: ../using-miro/index.php:132
+msgid ""
+"...or buy a mobile app and Amazon or Google will sync them to your phone "
+"automatically."
+msgstr ""
+
+#: ../using-miro/faq/index.php:44
+msgid ""
+"which is on the front page of this web-site.  Additionally, there's a "
+msgstr ""
+
+#: ../jobs/index.php:5
+msgid "Miro Video Player | Jobs"
+msgstr ""
+
+#: ../jobs/index.php:39
+msgid "Jobs at Participatory Culture"
+msgstr "Công việc tại Participatory Culture"
+
+#: ../jobs/index.php:40
+msgid ""
+"Participatory Culture Foundation, which makes the Miro platform, is looking "
+"for world-class talent to join our organization.  We are a non-profit "
+"organization with a small, focused team that rivals the talent and quality "
+"of any for-profit software company. Are you doing amazing work for a company "
+"that you don't really believe in?  Quit your job and work for us.  "
+"Seriously.  All of our staff (about ten full-time employees) currently works "
+"remotely."
+msgstr ""
+
+#: ../open-source/volunteer/index.php:3
+msgid "Miro Video Player | Volunteer with Miro"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:237
+msgid "Open-source and non-profit: We need your help!"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:238
+msgid ""
+"Miro is part of the Participatory Culture Foundation (a non-profit "
+"organization) and is powered by a global community of volunteers: coders, "
+"translators, testers, community leaders, Miro Guide moderators, and more. "
+"We'd love to have you get involved - here are some places we need your help."
+msgstr ""
+
+#: ../open-source/volunteer/index.php:255
+msgid "Developers"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:258
+msgid ""
+"Miro is a free and open source project, licensed under the GPL.  If you see "
+"a bug in the bug-tracker that you can fix, go for it!"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:270
+msgid "Get an Internship"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:272
+msgid ""
+"If you're a student looking for an exciting internship with a start-up style "
+"non-profit organization, we may be able to help. We've got slots for coders, "
+"non-profit biz-dev, and marketing. We're very flexible about where you work "
+"from, but we expect you to be self-motivated, dedicated, driven, "
+"professional, independent, and ready to get your hands dirty. If you're "
+"serious about an internship, send us a resume and brief statement of intent."
+msgstr ""
+
+#: ../open-source/volunteer/index.php:274
+#: ../open-source/volunteer/index2.php:511
+msgid "Outreach Director: "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:274
+#: ../open-source/volunteer/index2.php:511
+msgid "Dean Jansen"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:276
+#: ../open-source/volunteer/index2.php:513
+msgid "Send resume and statement to: "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:276
+#: ../open-source/volunteer/index.php:315
+#: ../open-source/volunteer/index_backup.php:46
+#: ../open-source/volunteer/index2.php:513
+#: ../open-source/volunteer/index2.php:553
+#: ../open-source/sidebar.volunteer.php:46
+msgid "dean [at] pculture.org"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:285
+#, php-format
+msgid ""
+"Only about 40% of Miro users live in English speaking countries. Miro is "
+"completely volunteer translated-- if you speak more than one language, we "
+"need you to help us make Miro accessible to the whole world! It's easy:"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:288
+msgid "Register at Launchpad"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:288
+msgid "the translation service we use."
+msgstr ""
+
+#: ../open-source/volunteer/index.php:289
+msgid ""
+"Go to the translation page for one of our projects and click on a language "
+"to start translating.  It's really easy."
+msgstr ""
+
+#: ../open-source/volunteer/index.php:293
+msgid "Translate GetMiro.com (this website)"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:295
+msgid "Translate the Miro Guide"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:299
+msgid "Have any questions?  Email us: "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:299
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid "translations [at] pculture.org"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:307
+msgid "Help Other Users"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:311
+msgid ""
+"Miro users always have questions, issues, and ideas.  You can join the "
+"conversation and help new users get started with Miro and solve any problems "
+"they run into.  In fact, lots of these conversations end up leading to new "
+"Miro features.  To join in:"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:313
+msgid "Jump in here: "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:313
+msgid "list of unanswered questions"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:315
+#: ../open-source/volunteer/index.php:334
+#: ../open-source/volunteer/index_backup.php:33
+#: ../open-source/volunteer/index_backup.php:46
+#: ../open-source/volunteer/index2.php:522
+#: ../open-source/volunteer/index2.php:543
+#: ../open-source/volunteer/index2.php:553
+#: ../open-source/sidebar.volunteer.php:33
+#: ../open-source/sidebar.volunteer.php:46
+msgid "Project Leader: "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:315
+#: ../open-source/volunteer/index_backup.php:46
+#: ../open-source/volunteer/index2.php:553
+#: ../open-source/sidebar.volunteer.php:46
+msgid "Dean"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:315
+#: ../open-source/volunteer/index_backup.php:46
+#: ../open-source/volunteer/index2.php:553
+#: ../open-source/sidebar.volunteer.php:46
+msgid "Questions? Email: "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:322
+msgid "Become a  Bug Tester"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:324
+msgid ""
+"This is a fantastic way for anyone to contribute to the Miro project &mdash; "
+"you don't need programming skills, just the ability to describe problems "
+"clearly.  Good bugs reports help the coders be much more efficient. Here's "
+"how to start:"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:328
+#: ../open-source/volunteer/index2.php:520
+msgid "awesome bug reporter"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:328
+msgid ". She also writes the "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:328
+#: ../open-source/volunteer/index2.php:520
+msgid "Miro testing blog"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:328
+msgid "Take a look at both to get your bearings."
+msgstr ""
+
+#: ../open-source/volunteer/index.php:330
+#: ../open-source/volunteer/index2.php:520
+msgid "start testing"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:334
+#: ../open-source/volunteer/index_backup.php:33
+#: ../open-source/volunteer/index2.php:522
+#: ../open-source/volunteer/index2.php:543
+#: ../open-source/sidebar.volunteer.php:33
+msgid "Janet"
+msgstr ""
+
+#: ../open-source/volunteer/index.php:334
+#: ../open-source/volunteer/index_backup.php:33
+#: ../open-source/volunteer/index2.php:522
+#: ../open-source/volunteer/index2.php:543
+#: ../open-source/sidebar.volunteer.php:33
+msgid "For guidance, email: "
+msgstr ""
+
+#: ../open-source/volunteer/index.php:334
+#: ../open-source/volunteer/index_backup.php:33
+#: ../open-source/volunteer/index2.php:522
+#: ../open-source/volunteer/index2.php:543
+#: ../open-source/sidebar.volunteer.php:33
+msgid "jed [at] pculture.org"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:2
+#: ../open-source/sidebar.open-source.php:2
+#: ../open-source/sidebar.volunteer.php:2
+msgid "You Can Get Involved"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:4
+#: ../open-source/volunteer/index2.php:518
+#: ../open-source/sidebar.open-source.php:5
+#: ../open-source/sidebar.volunteer.php:4
+msgid "We Need Bug Testers"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:4
+#: ../open-source/sidebar.volunteer.php:4
+msgid "Miro isn't perfect, but with your help we can get better."
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:5
+#: ../open-source/sidebar.open-source.php:6
+#: ../open-source/sidebar.volunteer.php:5
+msgid "Help Translate Miro"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:5
+#: ../open-source/sidebar.volunteer.php:5
+msgid "Do you speak a non-engdivsh language? Get involved!"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:7
+#: ../open-source/sidebar.open-source.php:7
+#: ../open-source/sidebar.volunteer.php:7
+msgid "Looking for an Internship?"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:7
+#: ../open-source/sidebar.open-source.php:7
+#: ../open-source/sidebar.volunteer.php:7
+msgid ""
+"We have awesome internships for coders, non-profit biz dev, and marketing."
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:9
+#: ../open-source/volunteer/index2.php:490
+#: ../open-source/sidebar.open-source.php:8
+#: ../open-source/sidebar.volunteer.php:9 ../open-source/subnav.php:6
+msgid "Development Center"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:9
+#: ../open-source/sidebar.open-source.php:8
+#: ../open-source/sidebar.volunteer.php:9
+msgid "Information on building and developing Miro."
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:17
+#: ../open-source/volunteer/index2.php:526
+#: ../open-source/sidebar.volunteer.php:17
+msgid "Join the Miro Translators"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid ""
+"Do you speak more than one language? Miro is 100% volunteer translated and "
+"we're always looking for help. Getting started is quick and easy &mdash; "
+"make a "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid "Launchpad account"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid ", and then follow these links to help translate "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid " and "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid "GetMiro.com"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:20
+#: ../open-source/volunteer/index2.php:530
+#: ../open-source/sidebar.volunteer.php:20
+msgid ". If you have questions, please contact: "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:22
+#: ../open-source/volunteer/index2.php:532
+#: ../open-source/sidebar.volunteer.php:22
+msgid "Translations to GetMiro.com Last Synced: "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:24
+#: ../open-source/volunteer/index2.php:534
+#: ../open-source/sidebar.volunteer.php:24
+msgid "Translations to MiroGuide.com Last Updated: "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:25
+#: ../open-source/volunteer/index2.php:535
+#: ../open-source/sidebar.volunteer.php:25
+msgid "Translations to Miro Application Last Synced: "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:30
+#: ../open-source/volunteer/index2.php:540
+#: ../open-source/sidebar.open-source.php:9
+#: ../open-source/sidebar.volunteer.php:30
+msgid "The Miro Source Code"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:32
+#: ../open-source/volunteer/index2.php:542
+#: ../open-source/sidebar.volunteer.php:32
+msgid "Miro is free and open source, divcensed under the GPL."
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:42
+#: ../open-source/sidebar.volunteer.php:42
+msgid "Join the Conversation on GetSatisfaction"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:44
+#: ../open-source/volunteer/index2.php:551
+#: ../open-source/sidebar.volunteer.php:44
+msgid "Miro users always have questions, issues, and ideas; we use "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:44
+#: ../open-source/volunteer/index2.php:551
+#: ../open-source/sidebar.volunteer.php:44
+msgid "GetSatisfaction"
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:44
+#: ../open-source/volunteer/index2.php:551
+#: ../open-source/sidebar.volunteer.php:44
+msgid ""
+" to engage the community. We'd love to have you involved &mdash; answering "
+"questions and developing ideas. A good place to start is this list of "
+msgstr ""
+
+#: ../open-source/volunteer/index_backup.php:44
+#: ../open-source/volunteer/index2.php:551
+#: ../open-source/sidebar.volunteer.php:44
+msgid "unanswered questions"
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:464
+msgid "Your Talent: Where Does it Fit?"
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:465
+msgid ""
+"Hi there, we're the Participatory\n"
+"Culture Foundation; a small 501c3 non-profit organization pushing for a\n"
+"more open and democratic video space, through open source software.\n"
+"We're lucky to have help from a global community of volunteers and\n"
+"interns: coders, translators, bug reporters, community leaders, guide\n"
+"moderators, and more. We'd love to have you involved &mdash; based on\n"
+"the projects below, where do your biggest strengths lie? "
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:494
+msgid ""
+"Miro is an Open Source project and we'd love to get help wherever we can.  "
+"If you see a bug in the bug-tracker that you can fix, let us know and then "
+"go for it!  All the information you need to checkout Miro from svn, build it "
+"on your machine, and run it is in our "
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:494
+msgid "development wiki"
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:494
+msgid "Bite-sized bugs"
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:496
+msgid "Developers mailing list: "
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:498
+msgid "IRC: "
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:507
+msgid "PCF Internships"
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:509
+msgid ""
+"If you're a student looking for an exciting internship with a start-up style "
+"non-profit organization, we may be able to help. We've got slots for coders, "
+"non-profit biz-dev, and marketing. We're very flexible about where you work "
+"from, but we expect you to be self-motivated, dedicated, driven, "
+"independent, and ready to get your hands dirty. If you're serious about an "
+"internship, send us a resume and brief statement of intent."
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:520
+msgid ""
+"This is a fantastic way for anyone to contribute to the Miro project &mdash; "
+"you don't need programming skills, just the ability to describe problems "
+"clearly. Janet, our bugmaster and QA person even wrote up guidelines for "
+"being an "
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:520
+msgid ". First, I recommend you take a peek at the "
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:520
+msgid " and then jump in and "
+msgstr ""
+
+#: ../open-source/volunteer/index2.php:546
+msgid "Join the Conversation"
+msgstr ""
+
+#: ../open-source/sidebar.open-source.php:5
+msgid "Help us find problems early and make Miro better."
+msgstr ""
+
+#: ../open-source/sidebar.open-source.php:6
+msgid "Do you speak a non-english language? Get involved!"
+msgstr ""
+
+#: ../open-source/sidebar.open-source.php:9
+msgid "Miro is free and open source, licensed under the GPL."
+msgstr ""
+
+#: ../open-source/subnav.php:4
+msgid "Volunteering and Interning"
+msgstr ""
+
+#: ../open-source/subnav.php:7
+msgid "IRC Chat"
+msgstr ""
+
+#: ../open-source/share/index.php:3
+msgid "Miro Video Player | Share Miro"
+msgstr ""
+
+#: ../open-source/share/index.php:37
+msgid "Sharing Miro is Sharing Our Mission"
+msgstr ""
+
+#: ../open-source/share/index.php:38
+msgid ""
+"Miro is one of the world's most popular free, open-source software projects. "
+"But it's more than just great software: Miro is part of a fight to keep "
+"online video open.\n"
+"\n"
+"Dozens of major corporations are trying to lock video creators and viewers "
+"into closed and proprietary distribution systems. To them, proprietary "
+"models are just a way to make money by forcing viewers and creators to use "
+"their products. But if companies act as gatekeepers deciding what people see "
+"and what they don't, free speech online is threatened."
+msgstr ""
+
+#: ../open-source/share/index.php:44
+msgid "Two Reasons to Share Miro"
+msgstr ""
+
+#: ../open-source/share/index.php:45
+msgid "Reason One:"
+msgstr ""
+
+#: ../open-source/share/index.php:45
+msgid ""
+"Miro is a slick way for your friends to watch all the shows they love, view "
+"YouTube videos in HD, discover fresh new web video programming, and more."
+msgstr ""
+
+#: ../open-source/share/index.php:46
+msgid "Reason Two:"
+msgstr ""
+
+#: ../open-source/share/index.php:46
+msgid ""
+"Our mission is to democratize television as it moves online. When more "
+"people use Miro, it sends an important signal to video publishers "
+"everywhere: open standards, interoperability, and decentralization matter!"
+msgstr ""
+
+#: ../open-source/share/index.php:50
+msgid "The Absolute Best Way to Give Miro to Friends"
+msgstr ""
+
+#: ../open-source/share/index.php:51
+msgid ""
+"Installing and configuring Miro on a friend's computer is the only foolproof "
+"way to get the job done. Miro is one of those applications where you need to "
+"see the HD video firsthand to understand why it's so cool. Also, you know "
+"your friends' tastes in video better than we do, so you can subscribe them "
+"to shows you know they will enjoy. So go ahead and offer to give them the "
+"only internet TV they'll need."
+msgstr ""
+
+#: ../index-old.php:71
+msgid "Open internet video, beyond anything else."
+msgstr ""
+
+#: ../index3.php:59
+msgid "Award-winning desktop video player and downloader."
+msgstr ""
